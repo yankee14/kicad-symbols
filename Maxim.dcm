@@ -6,7 +6,7 @@ K single opamp
 F http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf
 $ENDCMP
 #
-$CMP MAX4239AUT
+$CMP MAX4239AUT+T
 D Ultra-Low Offset/Drift, Low-Noise, Precision Amplifiers, SOT-23-6
 K single opamp
 F http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf
