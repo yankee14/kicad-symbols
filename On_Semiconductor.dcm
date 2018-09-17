@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMV321AS5X
+D Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+#End Doc Library
