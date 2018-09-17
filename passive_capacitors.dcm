@@ -1,12 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 10pF-1
+$CMP 10pF
 D 10 pF, 50 V, 5%, 0603, MLCC, Samsung CL10C100JB8NCNC
 K cap capacitor 50V 5% 0603 MLCC
 F https://datasheet.octopart.com/CL10C100JB8NCNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf
 $ENDCMP
 #
-$CMP 10pF-1s
+$CMP 10pFs
 D 10 pF, 50 V, 5%, 0603, MLCC, Samsung CL10C100JB8NCNC
 K capacitor cap
 F https://datasheet.octopart.com/CL10C100JB8NCNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf
