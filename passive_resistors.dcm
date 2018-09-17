@@ -12,6 +12,18 @@ K R resistor 1%
 F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf
 $ENDCMP
 #
+$CMP 270R
+D 270 Ohm, 5%, 0603, 0.1 W, 50 V, thick film, Stackpole Electronics RMCF0603JT270R
+K r res resistor 5%
+F https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf
+$ENDCMP
+#
+$CMP 270Rs
+D 270 Ohm, 5%, 0603, 0.1 W, 50 V, thick film, Stackpole Electronics RMCF0603JT270R
+K R resistor 5%
+F https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf
+$ENDCMP
+#
 $CMP R
 D Resistor
 K r res resistor
