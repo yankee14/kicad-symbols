@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10pF
+D 10 pF, 50 V, ±0.5 pF, 0603, MLCC, Samsung CL10C100DB8NNNC
+K cap capacitor
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/06/11/CL10C100DB8NNNC.pdf
+$ENDCMP
+#
+$CMP 10pFs
+D 10 pF, 50 V, ±0.5 pF, 0603, MLCC, Samsung CL10C100DB8NNNC
+K capacitor cap
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/06/11/CL10C100DB8NNNC.pdf
+$ENDCMP
+#
 $CMP C
 D Unpolarized capacitor
 K cap capacitor
