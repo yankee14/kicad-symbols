@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0R01
+D 10 mOhm, 0.1%, 2512, 1 W, 100 mV, 10 A, metal strip, Vishay Foil Resistors Y14870R01000B9R
+K r res resistor precision 0.1%
+F http://www.vishaypg.com/docs/63089/csm.pdf
+$ENDCMP
+#
 $CMP 10R
 D 10 Ohm, 0.05%, 0603, 0.1 W, 50 V, thin film, Stackpole Electronics RNCF0603AKT10R0
 K r res resistor precision 0.05%
@@ -63,6 +69,18 @@ $ENDCMP
 $CMP R
 D Resistor
 K r res resistor
+F ~
+$ENDCMP
+#
+$CMP R_Shunt
+D Shunt Resistor
+K r res shunt resistor
+F ~
+$ENDCMP
+#
+$CMP R_Shunt_US
+D Shunt Resistor US symbol
+K r res shunt resistor
 F ~
 $ENDCMP
 #
