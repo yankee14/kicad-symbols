@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 100K
+# 100k
 #
-DEF 100K R 0 0 N Y 1 F N
+DEF 100k R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "100K" 0 0 50 V V C CNN
+F1 "100k" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -18,11 +18,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 100Ks
+# 100ks
 #
-DEF 100Ks R 0 10 N N 1 F N
+DEF 100ks R 0 10 N N 1 F N
 F0 "R" 30 20 50 H V L CNN
-F1 "100Ks" 30 -40 50 H V L CNN
+F1 "100ks" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST

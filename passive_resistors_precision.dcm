@@ -1,36 +1,36 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 1K
+$CMP 1k
 D 1 kOhm, 0.05%, 0603, 0.1 W, 75 V, thin film, Panasonic ERA-3ARW102V
 K r res resistor precision 0.05%
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
 $ENDCMP
 #
-$CMP 1Ks
+$CMP 1ks
 D 1 kOhm, 0.05%, 0603, 0.1 W, 75 V, thin film, Panasonic ERA-3ARW102V
 K R resistor precision 0.05%
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
 $ENDCMP
 #
-$CMP 2K2
+$CMP 2k2
 D 2.2 kOhm, 0.05%, 0603, 0.1 W, 75 V, thin film, Panasonic ERA-3ARW222V
 K r res resistor precision 0.05%
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
 $ENDCMP
 #
-$CMP 2K2s
+$CMP 2k2s
 D 2.2 kOhm, 0.05%, 0603, 0.1 W, 75 V, thin film, Panasonic ERA-3ARW222V
 K R resistor precision 0.05%
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
 $ENDCMP
 #
-$CMP 6K8
+$CMP 6k8
 D 6.8 kOhm, 0.05%, 0603, 0.1 W, 75 V, thin film, Panasonic ERA-3ARW682V
 K r res resistor precision 0.05%
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
 $ENDCMP
 #
-$CMP 6K8s
+$CMP 6k8s
 D 6.8 kOhm, 0.05%, 0603, 0.1 W, 75 V, thin film, Panasonic ERA-3ARW682V
 K R resistor precision 0.05%
 F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf

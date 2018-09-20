@@ -1,12 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 100K
+$CMP 100k
 D 100 kOhm, 1%, 0603, 0.125 W, 75 V, thick film, Yageo AC0603FR-07100KL
 K r res resistor 1%
 F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf
 $ENDCMP
 #
-$CMP 100Ks
+$CMP 100ks
 D 100 kOhm, 1%, 0603, 0.125 W, 75 V, thick film, Yageo AC0603FR-07100KL
 K R resistor 1%
 F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-AC_51_RoHS_L_6.pdf
