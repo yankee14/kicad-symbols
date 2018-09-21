@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0.1µF
+D 0.1 µF, 16 V, X7R, 10%, 0603, MLCC, Samsung CL10B104KO8NNNC
+K cap capacitor decouple decoupling
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/24/CL10B104KO8NNNC.pdf
+$ENDCMP
+#
+$CMP 0.1µFs
+D 0.1 µF, 16 V, X7R, 10%, 0603, MLCC, Samsung CL10B104KO8NNNC
+K cap capacitor decoupl
+F https://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/24/CL10B104KO8NNNC.pdf
+$ENDCMP
+#
 $CMP 10pF
 D 10 pF, 50 V, ±0.5 pF, 0603, MLCC, Samsung CL10C100DB8NNNC
 K cap capacitor
