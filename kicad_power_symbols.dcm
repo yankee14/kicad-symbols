@@ -20,7 +20,17 @@ D power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP +V_BATT
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP -TEMPLATE
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP -V_BATT
 D power-flag symbol
 K Power Flag Symbol
 $ENDCMP
