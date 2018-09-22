@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DPST
+D DPST, no common, max 20 mOhm, 10 A @ 125 VAC, 10000 cycles, APEM MR210C2NBB
+K rocker switch dp double-pole st single-throw dpst
+F https://media.digikey.com/pdf/Data%20Sheets/APEM%20Components%20PDFs/MR_Series.pdf
+$ENDCMP
+#
+#End Doc Library
