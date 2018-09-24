@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 40_mil_thru_hole
+D Test Point, dia 40 mil hole, dia 80 mil plated
+K test point tp
+F ~
+$ENDCMP
+#
+#End Doc Library

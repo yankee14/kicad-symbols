@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 40_mil_thru_hole
+#
+DEF ~40_mil_thru_hole TP 0 30 N N 1 F N
+F0 "TP" 0 150 50 H V C CNN
+F1 "40_mil_thru_hole" 0 0 50 H I C CNN
+F2 "test_point:40_mil_thru_hole" 0 0 50 H I C CNN
+F3 "" 200 -50 50 H I C CNN
+$FPLIST
+ 40_mil_thru_hole
+$ENDFPLIST
+DRAW
+C 0 80 30 0 1 0 N
+X 1 1 0 0 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
