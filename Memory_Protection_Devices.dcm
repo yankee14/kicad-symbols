@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC2AAPC
+D 2x AA Battery Holder, Thru-Hole, Memory Protection Devices BC2AAPC
+K AA battery cell holder
+F https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/BC2AAPC.pdf
+$ENDCMP
+#
+#End Doc Library
