@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2269-0
+D Dual Banana Jack (Red, Black), Female, 2500 V, 15 A, Solder, Pomona 2269-0
+K banana jack female pomona
+F https://datasheet.octopart.com/2269-0-Pomona-Electronics-datasheet-665.pdf
+$ENDCMP
+#
+#End Doc Library
