@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DPDT_4022-1600
+D DPST, common, 10 mOhm, 16 A @ 125 VAC, 14 VDC, 25000 cycles, CW Industries GRS-4022-1600
+K switch dual-pole double-throw DPDT spdt ON-ON
+$ENDCMP
+#
+#End Doc Library
