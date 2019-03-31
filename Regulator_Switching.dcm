@@ -2430,6 +2430,12 @@ K DC/DC converter CCD Bias Boost
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3472f.pdf
 $ENDCMP
 #
+$CMP LT3748xMS
+D 100V Isolated Flyback Controller, MSOP-16
+K isolated flyback controller
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3748fb.pdf
+$ENDCMP
+#
 $CMP LT3757AEDD
 D Boost, flyback, SEPIC and inverting regulator, improved load transient performance, DFN-10
 K Boost flyback SEPIC inverting DC/DC regulator
@@ -2452,6 +2458,12 @@ $CMP LT3757EMSE
 D Boost, flyback, SEPIC and inverting regulator. MSOP-10
 K Boost flyback SEPIC inverting DC/DC regulator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf
+$ENDCMP
+#
+$CMP LT8303
+D 100VIN Micropower Isolated Flyback Converter with 150V/450mA Switch, TSOT-23-5
+K Flyback switcher
+F https://www.analog.com/media/en/technical-documentation/data-sheets/8303fa.pdf
 $ENDCMP
 #
 $CMP LT8610
@@ -2926,6 +2938,12 @@ $CMP MIC4690
 D 1A, 500kHz SuperSwitcher Buck Regulator, 4-34V Input Voltage, Adjustable Output Voltage, SO-8
 K regulator switching adjustable
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic4690.pdf
+$ENDCMP
+#
+$CMP MP1470
+D High-Efficiency, 2A, 16V, 500kHz Synchronous, Step-Down Converter, TSOT-23-6
+K buck converter
+F https://www.monolithicpower.com/pub/media/document/MP1470_r1.02.pdf
 $ENDCMP
 #
 $CMP MP171GJ

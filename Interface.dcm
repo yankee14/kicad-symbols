@@ -111,6 +111,12 @@ K dds direct digital synthesizer
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9910.pdf
 $ENDCMP
 #
+$CMP AD9912
+D 1 GSPS, 14-bit DAC, Direct Digital Synthesizer, LFCSP-64
+K Direct Digital Synthesizer DDS
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad9912.pdf
+$ENDCMP
+#
 $CMP AD9951
 D 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
 K Direct Digital Synthesizer DDS
@@ -445,6 +451,18 @@ $CMP U2270B
 D IDIC read/write base stations in contactless identification and immobilizer systems, SO-16
 K IDIC read/write base stations in contactless identification and immobilizer systems
 F http://www.farnell.com/datasheets/94393.pdf
+$ENDCMP
+#
+$CMP Z8420
+D Parallel I/O, DIP-40
+K Z80 PIO parallel
+F https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=
+$ENDCMP
+#
+$CMP Z84C20
+D Parallel I/O, CMOS, DIP-40
+K Z80 PIO parallel
+F https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=
 $ENDCMP
 #
 #End Doc Library
