@@ -75,6 +75,11 @@ D Power symbol creates a global label with name "+24V"
 K power-flag
 $ENDCMP
 #
+$CMP +24V_AC
+D Power symbol creates a global label with name "+24V_AC"
+K power-flag
+$ENDCMP
+#
 $CMP +28V
 D Power symbol creates a global label with name "+28V"
 K power-flag
@@ -215,6 +220,16 @@ D Power symbol creates a global label with name "+BATT"
 K power-flag battery
 $ENDCMP
 #
+$CMP +R
+D Power symbol creates a global label with name "+R"
+K power-flag
+$ENDCMP
+#
+$CMP +R_24VAC
+D Power symbol creates a global label with name "+R_24VAC"
+K power-flag
+$ENDCMP
+#
 $CMP +VDC
 D Power symbol creates a global label with name "+VDC"
 K power-flag
@@ -247,6 +262,11 @@ $ENDCMP
 #
 $CMP -24V
 D Power symbol creates a global label with name "-24V"
+K power-flag
+$ENDCMP
+#
+$CMP -24V_AC
+D Power symbol creates a global label with name "-24V_AC"
 K power-flag
 $ENDCMP
 #
@@ -303,6 +323,11 @@ $ENDCMP
 $CMP -BATT
 D Power symbol creates a global label with name "-BATT"
 K power-flag battery
+$ENDCMP
+#
+$CMP -C_24VAC
+D Power symbol creates a global label with name "-C_24VAC"
+K power-flag
 $ENDCMP
 #
 $CMP -VDC
