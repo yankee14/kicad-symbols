@@ -24,6 +24,12 @@ K Jumper SPDT
 F ~
 $ENDCMP
 #
+$CMP Jumper_4_Bridged12_copy
+D Jumper, 1-pole, 3-throw, pins 1+2 closed/bridged
+K Jumper SP3T
+F ~
+$ENDCMP
+#
 $CMP SolderJumper_2_Bridged
 D Solder Jumper, 2-pole, closed/bridged
 K solder jumper SPST
