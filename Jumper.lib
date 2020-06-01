@@ -92,11 +92,11 @@ X B 3 250 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Jumper_4_Bridged12_copy
+# Jumper_4_Bridged12
 #
-DEF Jumper_4_Bridged12_copy JP 0 0 Y N 1 F N
+DEF Jumper_4_Bridged12 JP 0 0 Y N 1 F N
 F0 "JP" -100 -100 50 H V C CNN
-F1 "Jumper_4_Bridged12_copy" 100 475 50 H V C CNN
+F1 "Jumper_4_Bridged12" 100 475 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
