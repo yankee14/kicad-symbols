@@ -8,6 +8,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "2N7000" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-92_Inline" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TO?92*
 $ENDFPLIST
@@ -39,6 +47,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "3SK263" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-143" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?143*
 $ENDFPLIST
@@ -73,6 +89,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BF244A" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-92_Inline" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BF244B BF244C
 $FPLIST
  TO?92*
@@ -97,6 +121,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BF245A" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-92_Inline" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BF245B BF245C
 $FPLIST
  TO?92*
@@ -121,6 +153,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BF545A" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BF545B BF545C
 $FPLIST
  SOT?23*
@@ -145,6 +185,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BS107" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-92_Inline" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BS108 BS170
 $FPLIST
  TO?92*
@@ -177,6 +225,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BS250" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-92_Inline" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TO?92*
 $ENDFPLIST
@@ -208,6 +264,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSB008NE2LX" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MX" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BSB012NE2LXI BSB013NE2LXI BSB014N04LX3 BSB015N04NX3 IRF6616 IRF6620 IRF6628 IRF6635 IRF6714M IRF6715M IRF6716M IRF6717M IRF6724M IRF6725M IRF6727M IRF6728M IRF6795M IRF6797M IRF6798M IRF6893M IRF6894M IRF6898M IRF7946 IRF8302M IRF8304M IRF8306M IRF8308M
 $FPLIST
  DirectFET*MX*
@@ -240,6 +304,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSB028N06NN3" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MN" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BSB044N08NN3 BSB056N10NN3 IRF6644 IRF6646 IRF6648 IRF6662 IRF6668 IRF7171M
 $FPLIST
  DirectFET*MN*
@@ -272,6 +344,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSB104N08NP3" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MP" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF6637 IRF6722M
 $FPLIST
  DirectFET*MP*
@@ -304,6 +384,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSB165N15NZ3" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MZ" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BSB280N15NZ3 IRF6641 IRF6643 IRF6674 IRF6775M IRF6785
 $FPLIST
  DirectFET*MZ*
@@ -336,6 +424,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSC13DN30NSFD" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TDSON-8-1" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TDSON*
 $ENDFPLIST
@@ -369,6 +465,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSF030NE2LQ" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_SQ" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BSF035NE2LQ IRF6621 IRF6622 IRF6631 IRF6711S IRF6712S IRF6713S IRF6721S IRF6811S IRF8327S
 $FPLIST
  DirectFET*SQ*
@@ -401,6 +505,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSF450NE7NH3" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_ST" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF6614 IRF6617 IRF6623 IRF6636
 $FPLIST
  DirectFET*ST*
@@ -433,6 +545,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSP129" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?223*
 $ENDFPLIST
@@ -464,6 +584,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSP89" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?223*
 $ENDFPLIST
@@ -495,6 +623,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSR56" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BSR57 BSR58 MMBF4391 MMBF4392 MMBF4393 MMBFJ111 MMBFJ112 MMBFJ113
 $FPLIST
  SOT?23*
@@ -519,6 +655,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSS138" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS 2N7002 2N7002E 2N7002H 2N7002K BS170F BS870 BSN20 BSS123 BSS127S DMG2302U DMG3402L DMG3404L DMG3406L DMG3414U DMG3418L DMN10H220L DMN10H700S DMN13H750S DMN2041L DMN2050L DMN2056U DMN2058U DMN2075U DMN2230U DMN24H11DS DMN24H3D5L DMN3042L DMN3051L DMN30H4D0L DMN3110S DMN3150L DMN3300U DMN3404L DMN6075S DMN6140L DMN67D7L DMN67D8L MMBF170 VN10LF ZVN3306F ZVN3310F ZVN3320F ZVN4106F ZXM61N02F ZXM61N03F ZXMN10A07F ZXMN2A01F ZXMN2A14F ZXMN2B01F ZXMN2B14FH ZXMN2F30FH ZXMN2F34FH ZXMN3A01F ZXMN3A14F ZXMN3B01F ZXMN3B14F ZXMN3F30FH ZXMN6A07F IRLML0030 IRLML2060 TSM2302CX AO3400A
 $FPLIST
  SOT?23*
@@ -551,6 +695,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSS214NW" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-323_SC-70" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?323*
 $ENDFPLIST
@@ -582,6 +734,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BUK9M53-60EX" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:LFPAK33" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS BUK9M85-60EX BUK7M45-40EX BUK9M52-40EX BUK9M42-60EX BUK9M14-40EX BUK9M24-60EX BUK9M10-30EX BUK9M11-40EX BUK7M10-40EX BUK7M15-60EX BUK7M19-60EX BUK9M9R1-40EX BUK9M6R6-30EX BUK9M12-60EX BUK7M9R9-60EX BUK7M42-60EX BUK9M156-100EX BUK7M33-60EX BUK7M21-40EX BUK9M43-100EX BUK7M12-60EX BUK9M15-60EX BUK7M27-80EX BUK9M19-60EX BUK9M5R2-30EX BUK7M17-80EX BUK9M7R2-40EX BUK9M34-100EX BUK9M23-80EX BUK7M67-60EX BUK9M24-40EX BUK9M120-100EX BUK9M17-30EX BUK7M12-40EX BUK9M28-80EX BUK7M8R0-40EX BUK9M35-80EX BUK7M6R3-40EX BUK7M22-80EX
 $FPLIST
  LFPAK33*
@@ -616,6 +776,14 @@ F0 "Q" 250 75 50 H V L CNN
 F1 "BUZ11" 250 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220-3_Vertical" 250 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF3205 IRF540N IRF740 IRLB8721PBF IRLZ34N IRLZ44N VNP10N07 IPP060N06N
 $FPLIST
  TO?220*
@@ -648,6 +816,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "C3M0030090K" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-247-4_Vertical" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS C3M0065100K C3M0075120K C3M0120100K
 $FPLIST
  TO?247*
@@ -683,6 +859,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "C3M0065090D" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-247-3_Vertical" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS C3M0120090D C3M0280090D C2M0025120D C2M0040120D C2M0080120D C2M0160120D C2M0280120D C2M0045170D C2M1000170D
 $FPLIST
  TO?247*
@@ -715,6 +899,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "C3M0065090J" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-263-7_TabPin8" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS C3M0065100J C3M0075120J C3M0280090J C2M1000170J C3M0120090J C3M0120100J
 $FPLIST
  TO?263*TabPin8*
@@ -754,6 +946,14 @@ F0 "Q" 200 100 50 H V L CNN
 F1 "CPC3703" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-89-3" 100 0 50 H I C CNN
 F3 "" 100 -150 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT*89*3*
 $ENDFPLIST
@@ -777,6 +977,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "CSD16301Q2" 200 0 50 H V L CNN
 F2 "Package_SON:Texas_DQK" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS CSD17313Q2
 $FPLIST
  Texas*DQK*
@@ -814,6 +1022,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "CSD17578Q5A" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TDSON-8-1" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS CSD17579Q5A CSD16570Q5B CSD17577Q5A CSD18509Q5B CSD18540Q5B CSD17573Q5B CSD17576Q5B CSD19534Q5A CSD17570Q5B CSD19533Q5A CSD19502Q5B CSD19532Q5B CSD19531Q5A CSD18563Q5A CSD18537NQ5A CSD18532NQ5B CSD17556Q5B CSD18502Q5B CSD18532Q5B CSD17552Q5A CSD17559Q5 CSD18534Q5A CSD18533Q5A CSD17555Q5A CSD17551Q5A CSD18501Q5A CSD18503Q5A CSD18504Q5A CSD18531Q5A CSD17553Q5A CSD16342Q5A CSD17322Q5A CSD17327Q5A CSD17522Q5A CSD17527Q5A CSD17501Q5A CSD17506Q5A CSD17505Q5A CSD17507Q5A CSD17510Q5A CSD17311Q5 CSD17312Q5 CSD17303Q5 CSD16415Q5 CSD17302Q5A CSD17305Q5A CSD17306Q5A CSD17307Q5A CSD17310Q5A CSD17301Q5A CSD16408Q5 CSD16322Q5 CSD16325Q5 CSD16321Q5 CSD16414Q5 CSD16401Q5 CSD16403Q5A CSD16404Q5A CSD16407Q5 CSD16410Q5A CSD16412Q5A CSD16413Q5A BSC026N08NS5 BSC030N08NS5 BSC035N10NS5 BSC037N08NS5 BSC040N10NS5 BSC040N08NS5 BSC046N10NS3G BSC047N08NS3G BSC052N08NS5 BSC057N08NS3G BSC060N10NS3G BSC061N08NS5 BSC070N10NS3G BSC070N10NS5 BSC072N08NS5 BSC079N10NSG BSC082N10LSG BSC098N10NS5 BSC100N10NSFG BSC105N10LSFG BSC109N10NS3G BSC117N08NS5 BSC118N10NSG BSC123N08NS3G BSC123N10LSG BSC159N10LSFG BSC160N10NS3G BSC196N10NSG BSC252N10NSFG BSC265N10LSFG BSC340N08NS3G BSC440N10NS3G BSC028N06LS3 FDMS8350LET40 FDMT80060DC FDMT80080DC FDMT800120DC FDMT800100DC FDMT800150DC FDMT800152DC FDMS8050ET30 FDMS86202ET120 FDMS86150ET100 FDMS86255ET150 FDMS86350ET80 FDMS86550ET60 FDMS8050 FDMS8350L FDMS86255 FDMS86550 FDMS86202 FDMS86350 FDMS86152 FDMS86150
 $FPLIST
  TDSON*
@@ -848,6 +1064,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "CSD19537Q3" 200 0 50 H V L CNN
 F2 "Package_SON:VSON-8_3.3x3.3mm_P0.65mm_NexFET" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  VSON*3.3x3.3mm*P0.65mm*NexFET*
 $ENDFPLIST
@@ -881,6 +1105,14 @@ F0 "Q" 200 50 50 H V C CNN
 F1 "CSD25302Q2" 150 -50 50 H V L CNN
 F2 "Package_SON:Texas_DQK" 500 -150 50 H I C CNN
 F3 "" -100 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  Texas*DQK*
 $ENDFPLIST
@@ -917,6 +1149,14 @@ F0 "Q" 125 50 50 H V L CNN
 F1 "DMC2053UVT" 125 -50 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TSOT-23-6" -50 -475 50 H I C CNN
 F3 "" -100 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS DMC3071LVT
 $FPLIST
  TSOT?23*
@@ -955,6 +1195,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "DMG1012T" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-523" 200 -75 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?523*
 $ENDFPLIST
@@ -993,6 +1241,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "DMN3033LDM" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23-6" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?23*
 $ENDFPLIST
@@ -1027,6 +1283,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "DMP3013SFV" 200 0 50 H V L CNN
 F2 "Package_SON:Diodes_PowerDI3333-8" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  Diodes*PowerDI3333*
 $ENDFPLIST
@@ -1060,6 +1324,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "FDC2512" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SuperSOT-6" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS FDC86244
 $FPLIST
  SuperSOT*
@@ -1095,6 +1367,14 @@ F0 "Q" 125 -50 50 H V L CNN
 F1 "FDC6330L" 125 -150 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TSOT-23-6" -50 -575 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TSOT?23*
 $ENDFPLIST
@@ -1147,6 +1427,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "FDG1024NZ" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS FDG6335N
 $FPLIST
  SOT?363*
@@ -1182,6 +1470,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "FDMC8032L" 200 0 50 H V L CNN
 F2 "Package_SON:Fairchild_DualPower33-6_3x3mm" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  Fairchild*DualPower33*3x3mm*
 $ENDFPLIST
@@ -1216,6 +1512,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "FDS6890A" 200 0 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS FDS6892A FDS6898A FDS9926A STS2DNE60 FDS6930A FDS6930B
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -1253,6 +1557,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IPB180N10S4-02" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-263-6" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TO?263?6*
 $ENDFPLIST
@@ -1288,6 +1600,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IPD50R380CE" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-252-2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IPD50R3K0CE QM6006D
 $FPLIST
  TO?252*
@@ -1320,6 +1640,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IPDD60R050G7" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IPDD60R080G7 IPDD60R102G7 IPDD60R125G7 IPDD60R150G7 IPDD60R190G7
 $FPLIST
  Infineon*PG*HDSOP*
@@ -1361,6 +1689,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IPT012N08N5" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IPT015N10N5 IPT020N10N3
 $FPLIST
  Infineon*PG*HSOF*
@@ -1393,6 +1729,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF40DM229" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MF" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF7483M
 $FPLIST
  DirectFET*MF*
@@ -1425,6 +1769,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF60DM206" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_ME" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF7480M IRF7486M IRF7580M IRF7780M
 $FPLIST
  DirectFET*ME*
@@ -1457,6 +1809,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF6613" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MT" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF6618 IRF6726M IRF8301M
 $FPLIST
  DirectFET*MT*
@@ -1489,6 +1849,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF6655" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_SH" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF6665
 $FPLIST
  DirectFET*SH*
@@ -1521,6 +1889,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF6710S2" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_S1" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF6810S
 $FPLIST
  DirectFET*S1*
@@ -1553,6 +1929,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF6718L2" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_L6" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF7748L1
 $FPLIST
  DirectFET*L6*
@@ -1585,6 +1969,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF6802SD" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_SA" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRL6297SD
 $FPLIST
  DirectFET*SA*
@@ -1620,6 +2012,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF6892S" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_S3C" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  DirectFET*S3C*
 $ENDFPLIST
@@ -1651,6 +2051,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7309IPBF" 200 0 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 200 -75 50 H I L CNN
 F3 "" 100 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS FDS4559 FDS4897AC FDS4897C FDS8960C FDS9934C IRF7343PBF Si4532DY Si4542DY
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -1691,6 +2099,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7324" 200 0 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 200 -75 50 H I L CNN
 F3 "" 100 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
@@ -1727,6 +2143,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7404" 200 0 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS FDS9435A
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -1764,6 +2188,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7606PBF" 200 0 50 H V L CNN
 F2 "Package_SO:MSOP-8_3x3mm_P0.65mm" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  MSOP*3x3mm*P0.65mm*
 $ENDFPLIST
@@ -1800,6 +2232,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7607PBF" 200 0 50 H V L CNN
 F2 "Package_SO:MSOP-8_3x3mm_P0.65mm" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  MSOP*3x3mm*P0.65mm*
 $ENDFPLIST
@@ -1836,6 +2276,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7665S2" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_SB" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  DirectFET*SB*
 $ENDFPLIST
@@ -1867,6 +2315,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF7739L1" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_L8" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF7759L2 IRF7769L1 IRF7779L2 IRF7799L2 IRL7472L1
 $FPLIST
  DirectFET*L8*
@@ -1899,6 +2355,14 @@ F0 "Q" 200 100 50 H V L CNN
 F1 "IRF8721PBF-1" 200 0 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 200 -100 50 H I L CNN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF7403 FDS2734 FDS6630A Si4162DY
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -1936,6 +2400,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF9383M" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MX" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  DirectFET*MX*
 $ENDFPLIST
@@ -1967,6 +2439,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF9394M" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MC" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF9395M
 $FPLIST
  DirectFET*MC*
@@ -1999,6 +2479,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRF9540N" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220-3_Vertical" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRF4905 FQP27P06
 $FPLIST
  TO?220*
@@ -2031,6 +2519,14 @@ F0 "Q" 200 175 50 H V L CNN
 F1 "IRFI4019H" 200 100 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS IRFI4020H IRFI4212H
 $FPLIST
  TO?220F*P3.4x2.06mm*StaggerEven*Lead1.86mm*
@@ -2079,6 +2575,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IRL6283M" 200 0 50 H V L CNN
 F2 "Package_DirectFET:DirectFET_MD" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  DirectFET*MD*
 $ENDFPLIST
@@ -2110,6 +2614,14 @@ F0 "Q" 250 75 50 H V L CNN
 F1 "IRLIZ44N" 250 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-220F-3_Vertical" 250 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TO?220F*
 $ENDFPLIST
@@ -2141,6 +2653,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "PGA26E07BA" 200 0 50 H V L CNN
 F2 "Package_DFN_QFN:Panasonic_HSON-8_8x8mm_P2.00mm" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS PGA26E19BA
 $FPLIST
  Panasonic*HSON*8x8mm*P2.00mm*
@@ -2181,6 +2701,14 @@ F0 "Q" 200 100 50 H V L CNN
 F1 "PMN48XP" 200 0 50 H V L CNN
 F2 "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm" 200 -100 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TSOP*1.65x3.05mm*P0.95mm*
 $ENDFPLIST
@@ -2215,6 +2743,14 @@ F0 "Q" 250 100 50 H V C CNN
 F1 "PSMN5R2-60YL" 500 0 50 H V C CNN
 F2 "Package_TO_SOT_SMD:LFPAK56" 150 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  LFPAK56*
 $ENDFPLIST
@@ -2248,6 +2784,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "QM6015D" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-252-2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TO?252*
 $ENDFPLIST
@@ -2279,6 +2823,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "STB15N80K5" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-263-2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS STB33N65M2 STB40N60M2 IRFS4115 IRFS4127 IRFS4227 IRFS4229 IRFS4310Z IRFS4321
 $FPLIST
  TO?263*
@@ -2311,6 +2863,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "STD7NK40Z" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-252-2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  TO?252*
 $ENDFPLIST
@@ -2342,6 +2902,14 @@ F0 "Q" 195 75 50 H V L CNN
 F1 "SUD19P06-60" 195 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-252-2" 195 -75 50 H I L CIN
 F3 "" 0 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS SUD50P08-25L SUD45P03-09 SUD09P10-195 SUD08P06-155L SUD50P10-43L SUD50P06-15 SUD50P04-08
 $FPLIST
  TO?252*
@@ -2374,6 +2942,14 @@ F0 "Q" 200 50 50 H V L CNN
 F1 "Si1442DH" 200 -50 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" 100 -400 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?363*
 $ENDFPLIST
@@ -2408,6 +2984,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "Si7141DP" 200 0 50 H V L CNN
 F2 "Package_SO:PowerPAK_SO-8_Single" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  PowerPAK*SO*Single*
 $ENDFPLIST
@@ -2441,6 +3025,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "Si7336ADP" 200 0 50 H V L CNN
 F2 "Package_SO:PowerPAK_SO-8_Single" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS Si7450DP
 $FPLIST
  PowerPAK*SO*Single*
@@ -2475,6 +3067,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "SiA453EDJ" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS SiA449DJ
 $FPLIST
  Vishay*PowerPAK*SC70*Single*
@@ -2507,6 +3107,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "SiS415DNT" 200 0 50 H V L CNN
 F2 "Package_SO:Vishay_PowerPAK_1212-8_Single" 200 -75 50 H I L CIN
 F3 "" 0 0 50 V I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS SiSS27DN
 $FPLIST
  Vishay*PowerPAK*1212*Single*
@@ -2541,6 +3149,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "TP0610L" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_THT:TO-92L_Inline" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS VP0610L
 $FPLIST
  TO?92L*
@@ -2573,6 +3189,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "TP0610T" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 ALIAS VP0610T BSS84 NTR2101P BSS83P Si2319CDS IRLML6402 DMG2301L AO3401A IRLML9301 IRLML5203 Si2371EDS TSM2301ACX
 $FPLIST
  SOT?23*
@@ -2605,6 +3229,14 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "ZXMP4A16G" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "" 0 0 50 H I C CNN "MPN 1"
+F6 "" 0 0 50 H I C CNN "Transistor Type"
+F7 "" 0 0 50 H I C CNN "Current I_DSS"
+F8 "" 0 0 50 H I C CNN "Resistance DS On"
+F9 "" 0 0 50 H I C CNN "Voltage DS"
+F10 "" 0 0 50 H I C CNN "Power"
+F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
 $FPLIST
  SOT?223*
 $ENDFPLIST
