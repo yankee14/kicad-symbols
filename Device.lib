@@ -203,6 +203,7 @@ F6 "~" 0 0 50 H I C CNN "Rating Voltage"
 F7 "~" 0 0 50 H I C CNN "Rating Safety"
 F8 "~" 0 0 50 H I C CNN "Tolerance"
 F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
+F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  C_*
 $ENDFPLIST
@@ -227,6 +228,7 @@ F6 "~" 0 0 50 H I C CNN "Rating Voltage"
 F7 "~" 0 0 50 H I C CNN "Rating Safety"
 F8 "~" 0 0 50 H I C CNN "Tolerance"
 F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
+F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -253,6 +255,7 @@ F6 "~" 0 0 50 H I C CNN "Rating Voltage"
 F7 "~" 0 0 50 H I C CNN "Rating Safety"
 F8 "~" 0 0 50 H I C CNN "Tolerance"
 F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
+F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -279,6 +282,7 @@ F6 "~" 0 0 50 H I C CNN "Rating Voltage"
 F7 "~" 0 0 50 H I C CNN "Rating Safety"
 F8 "~" 0 0 50 H I C CNN "Tolerance"
 F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
+F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -305,6 +309,7 @@ F6 "~" 0 0 50 H I C CNN "Rating Voltage"
 F7 "~" 0 0 50 H I C CNN "Rating Safety"
 F8 "~" 0 0 50 H I C CNN "Tolerance"
 F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
+F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -410,6 +415,7 @@ F6 "~" 0 0 50 H I C CNN "Rating Voltage"
 F7 "~" 0 0 50 H I C CNN "Rating Safety"
 F8 "~" 0 0 50 H I C CNN "Tolerance"
 F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
+F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  C_*
 $ENDFPLIST
