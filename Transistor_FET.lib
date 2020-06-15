@@ -592,6 +592,7 @@ F8 "" 0 0 50 H I C CNN "Resistance DS On"
 F9 "" 0 0 50 H I C CNN "Voltage DS"
 F10 "" 0 0 50 H I C CNN "Power"
 F11 "" 0 0 50 H I C CNN "Voltage GS"" 0 0 50 H I C CNN "Voltage DS"
+ALIAS BUK7880-55A
 $FPLIST
  SOT?223*
 $ENDFPLIST
