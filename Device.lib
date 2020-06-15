@@ -3176,7 +3176,16 @@ F0 "L" -50 0 50 V V C CNN
 F1 "L" 75 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "Shielded/Unshielded" 0 0 50 H I C CNN "Shielding"
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Saturation Current"
+F7 "?" 0 0 50 H I C CNN "Max Current"
+F8 "?" 0 0 50 H I C CNN "DC Resistance"
+F9 "?" 0 0 50 H I C CNN "Tolerance"
+F10 "?" 0 0 50 H I C CNN "Shielding"
+F11 "?" 0 0 50 H I C CNN "Self Resonant Frequency"
+F12 "?" 0 0 50 H I C CNN "Test Frequency"
+F13 "?" 0 0 50 H I C CNN "Core Material"
 $FPLIST
  Choke_*
  *Coil*
@@ -5641,7 +5650,16 @@ F0 "L" 30 40 50 H V L CNN
 F1 "L_Small" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "Shielded/Unshielded" 0 0 50 H I C CNN "Shielding"
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Saturation Current"
+F7 "?" 0 0 50 H I C CNN "Max Current"
+F8 "?" 0 0 50 H I C CNN "DC Resistance"
+F9 "?" 0 0 50 H I C CNN "Tolerance"
+F10 "?" 0 0 50 H I C CNN "Shielding"
+F11 "?" 0 0 50 H I C CNN "Self Resonant Frequency"
+F12 "?" 0 0 50 H I C CNN "Test Frequency"
+F13 "?" 0 0 50 H I C CNN "Core Material"
 $FPLIST
  Choke_*
  *Coil*
