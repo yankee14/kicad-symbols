@@ -8,6 +8,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "ABS2" 100 200 50 H V L CNN
 F2 "Diode_SMD:Diode_Bridge_Diotec_ABS" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS ABS4 ABS6 ABS8 ABS10
 $FPLIST
  Diode*Bridge*Diotec*ABS*
@@ -36,6 +43,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "B40C1500G" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Round_D9.8mm" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS B80C1500G B125C1500G B250C1500G B380C1500G W005G W01G W02G W04G W06G W08G W10G
 $FPLIST
  D*Bridge*Round*D9.8mm*
@@ -64,6 +78,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "B40C2300-1500A" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS B80C2300-1500A B125C2300-1500A B250C2300-1500A B380C2300-1500A B500C2300-1500A
 $FPLIST
  D*Bridge*19.0x3.5x10.0mm*P5.0mm*
@@ -92,6 +113,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "B40C2300-1500B" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS B80C2300-1500B B125C2300-1500B B250C2300-1500B B380C2300-1500B B700C2300-1500B
 $FPLIST
  D*Bridge*19.0x3.5x10.0mm*P5.0mm*
@@ -120,6 +148,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "B40C5000-3x00A" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS B80C5000-3x00A B125C5000-3x00A B250C5000-3x00A B380C5000-3x00A B500C5000-3x00A B40C3x00-2200A B80C3x00-2200A B125C3x00-2200A B250C3x00-2200A B380C3x00-2200A B500C3x00-2200A
 $FPLIST
  D*Bridge*32.0x5.6x17.0mm*P10.0mm*P7.5mm*
@@ -148,6 +183,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "B40C800DM" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS B80C800DM B125C800DM B250C800DM B380C800DM DF005M DF01M DF02M DF04M DF06M DF08M DF10M
 $FPLIST
  Diode*Bridge*DIP*W7.62mm*P5.08mm*
@@ -176,6 +218,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "B40R" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Round_D9.0mm" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS B80R B125R B250R B380R B500R RB151 RB152 RB153 RB154 RB155 RB156 RB157
 $FPLIST
  D*Bridge*Round*D9.0mm*
@@ -204,6 +253,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "GBU4A" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Vishay_GBU" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS GBU4B GBU4D GBU4G GBU4J GBU4K GBU4M GBU8A GBU8B GBU8D GBU8G GBU8J GBU8K GBU8M GBU6A GBU6B GBU6D GBU6G GBU6J GBU6K GBU6M
 $FPLIST
  Diode*Bridge*Vishay*GBU*
@@ -232,6 +288,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "KBU4A" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Vishay_KBU" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS KBU4B KBU4D KBU4G KBU4J KBU4K KBU4M KBU8A KBU8B KBU8D KBU8G KBU8J KBU8K KBU8M KBU6A KBU6B KBU6D KBU6G KBU6J KBU6K KBU6M
 $FPLIST
  Diode*Bridge*Vishay*KBU*
@@ -260,6 +323,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "MB2S" 100 200 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-269AA" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS MB4S MB6S RMB2S RMB4S
 $FPLIST
  TO?269AA*
@@ -288,6 +358,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "MBL104S" 100 200 50 H V L CNN
 F2 "Diode_SMD:Diode_Bridge_Vishay_MBLS" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS MBL106S MBL108S MBL110S
 $FPLIST
  Diode*Bridge*Vishay*MBLS*
@@ -316,6 +393,13 @@ F0 "D" 150 250 50 H V C CNN
 F1 "MDB6S" 250 150 50 H V C CNN
 F2 "Package_SO:TSSOP-4_4.4x5mm_P4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS MDB8S MDB10S
 $FPLIST
  TSSOP*4*4.4x5mm*P4mm*
@@ -344,6 +428,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "VS-KBPC1005" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Vishay_KBPC1" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS VS-KBPC101 VS-KBPC102 VS-KBPC104 VS-KBPC106 VS-KBPC108 VS-KBPC110
 $FPLIST
  D*Bridge*Vishay*KBPC1*
@@ -372,6 +463,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "VS-KBPC6005" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Vishay_KBPC6" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS VS-KBPC601 VS-KBPC602 VS-KBPC604 VS-KBPC606 VS-KBPC608 VS-KBPC610
 $FPLIST
  D*Bridge*Vishay*KBPC6*
@@ -400,6 +498,13 @@ F0 "D" 100 275 50 H V L CNN
 F1 "VS-KBPC8005" 100 200 50 H V L CNN
 F2 "Diode_THT:Diode_Bridge_Vishay_KBPC6" 150 125 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "?" 0 0 50 H I C CNN "MPN 1"
+F6 "?" 0 0 50 H I C CNN "Max Peak Reverse Voltage"
+F7 "?" 0 0 50 H I C CNN "Max Average Current"
+F8 "?" 0 0 50 H I C CNN "Forward Voltage"
+F9 "?" 0 0 50 H I C CNN "Reverse Leakage Current"
+F10 "?" 0 0 50 H I C CNN "Type"
 ALIAS VS-KBPC801 VS-KBPC802 VS-KBPC804 VS-KBPC806 VS-KBPC808 VS-KBPC810
 $FPLIST
  D*Bridge*Vishay*KBPC6*
