@@ -197,13 +197,6 @@ F0 "C" 25 100 50 H V L CNN
 F1 "C" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
-F5 "~" 0 0 50 H I C CNN "MPN 1"
-F6 "~" 0 0 50 H I C CNN "Rating Voltage"
-F7 "~" 0 0 50 H I C CNN "Rating Safety"
-F8 "~" 0 0 50 H I C CNN "Tolerance"
-F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
-F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  C_*
 $ENDFPLIST
@@ -224,11 +217,14 @@ F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
 F5 "~" 0 0 50 H I C CNN "MPN 1"
-F6 "~" 0 0 50 H I C CNN "Rating Voltage"
-F7 "~" 0 0 50 H I C CNN "Rating Safety"
-F8 "~" 0 0 50 H I C CNN "Tolerance"
-F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
-F10 "~" 0 0 50 H I C CNN "Type"
+F6 "~" 0 0 50 H I C CNN "Max Power"
+F7 "~" 0 0 50 H I C CNN "Tolerance"
+F8 "~" 0 0 50 H I C CNN "Max Working Voltage"
+F9 "~" 0 0 50 H I C CNN "Max Overload Voltage"
+F10 "~" 0 0 50 H I C CNN "Safety Rating"
+F11 "~" 0 0 50 H I C CNN "Type"
+F12 "~" 0 0 50 H I C CNN "Rated Current"
+F13 "~" 0 0 50 H I C CNN "Max Current"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -249,13 +245,6 @@ F0 "C" 25 100 50 H V L CNN
 F1 "CP1" 25 -100 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
-F5 "~" 0 0 50 H I C CNN "MPN 1"
-F6 "~" 0 0 50 H I C CNN "Rating Voltage"
-F7 "~" 0 0 50 H I C CNN "Rating Safety"
-F8 "~" 0 0 50 H I C CNN "Tolerance"
-F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
-F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -276,13 +265,6 @@ F0 "C" 10 70 50 H V L CNN
 F1 "CP1_Small" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
-F5 "~" 0 0 50 H I C CNN "MPN 1"
-F6 "~" 0 0 50 H I C CNN "Rating Voltage"
-F7 "~" 0 0 50 H I C CNN "Rating Safety"
-F8 "~" 0 0 50 H I C CNN "Tolerance"
-F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
-F10 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -305,11 +287,12 @@ F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
 F5 "~" 0 0 50 H I C CNN "MPN 1"
-F6 "~" 0 0 50 H I C CNN "Rating Voltage"
-F7 "~" 0 0 50 H I C CNN "Rating Safety"
-F8 "~" 0 0 50 H I C CNN "Tolerance"
-F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
-F10 "~" 0 0 50 H I C CNN "Type"
+F6 "~" 0 0 50 H I C CNN "Max Power"
+F7 "~" 0 0 50 H I C CNN "Tolerance"
+F8 "~" 0 0 50 H I C CNN "Max Working Voltage"
+F9 "~" 0 0 50 H I C CNN "Max Overload Voltage"
+F10 "~" 0 0 50 H I C CNN "Safety Rating"
+F11 "~" 0 0 50 H I C CNN "Type"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -411,11 +394,14 @@ F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
 F5 "~" 0 0 50 H I C CNN "MPN 1"
-F6 "~" 0 0 50 H I C CNN "Rating Voltage"
-F7 "~" 0 0 50 H I C CNN "Rating Safety"
-F8 "~" 0 0 50 H I C CNN "Tolerance"
-F9 "~" 0 0 50 H I C CNN "Temperature Coefficient"
-F10 "~" 0 0 50 H I C CNN "Type"
+F6 "~" 0 0 50 H I C CNN "Max Power"
+F7 "~" 0 0 50 H I C CNN "Tolerance"
+F8 "~" 0 0 50 H I C CNN "Max Working Voltage"
+F9 "~" 0 0 50 H I C CNN "Max Overload Voltage"
+F10 "~" 0 0 50 H I C CNN "Safety Rating"
+F11 "~" 0 0 50 H I C CNN "Type"
+F12 "~" 0 0 50 H I C CNN "Rated Current"
+F13 "~" 0 0 50 H I C CNN "Max Current"
 $FPLIST
  C_*
 $ENDFPLIST
@@ -8826,6 +8812,16 @@ F0 "R" 80 0 50 V V C CNN
 F1 "R" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "~" 0 0 50 H I C CNN "MPN 1"
+F6 "~" 0 0 50 H I C CNN "Max Power"
+F7 "~" 0 0 50 H I C CNN "Tolerance"
+F8 "~" 0 0 50 H I C CNN "Max Working Voltage"
+F9 "~" 0 0 50 H I C CNN "Max Overload Voltage"
+F10 "~" 0 0 50 H I C CNN "Safety Rating"
+F11 "~" 0 0 50 H I C CNN "Type"
+F12 "~" 0 0 50 H I C CNN "Rated Current"
+F13 "~" 0 0 50 H I C CNN "Max Current"
 $FPLIST
  R_*
 $ENDFPLIST
@@ -12618,6 +12614,16 @@ F0 "R" 30 20 50 H V L CNN
 F1 "R_Small" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "~" 0 0 50 H I C CNN "Manufacturer 1"
+F5 "~" 0 0 50 H I C CNN "MPN 1"
+F6 "~" 0 0 50 H I C CNN "Max Power"
+F7 "~" 0 0 50 H I C CNN "Tolerance"
+F8 "~" 0 0 50 H I C CNN "Max Working Voltage"
+F9 "~" 0 0 50 H I C CNN "Max Overload Voltage"
+F10 "~" 0 0 50 H I C CNN "Safety Rating"
+F11 "~" 0 0 50 H I C CNN "Type"
+F12 "~" 0 0 50 H I C CNN "Rated Current"
+F13 "~" 0 0 50 H I C CNN "Max Current"
 $FPLIST
  R_*
 $ENDFPLIST
