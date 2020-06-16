@@ -13660,6 +13660,18 @@ F0 "RV" 125 0 50 V V C CNN
 F1 "Varistor" -125 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Maximum Working Voltage"
+F9 "?" 0 0 50 H I C CNN "Min Varistor Voltage"
+F10 "?" 0 0 50 H I C CNN "Typ Varistor Voltage"
+F11 "?" 0 0 50 H I C CNN "Max Varistor Voltage"
+F12 "?" 0 0 50 H I C CNN "Surge Current"
+F13 "?" 0 0 50 H I C CNN "Energy"
+F14 "?" 0 0 50 H I C CNN "Capacitance"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  RV_*
  Varistor*
