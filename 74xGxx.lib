@@ -8,6 +8,18 @@ F0 "U" -150 250 50 H V C CNN
 F1 "74AHC1G4210" 300 250 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-353_SC-70-5" 0 -550 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*353*
 $ENDFPLIST
@@ -28,6 +40,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74AUC1G74" 200 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUP1G74
 $FPLIST
  SSOP*
@@ -53,6 +77,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74CBT1G125" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74CB3T1G125 74CBTD1G125 74CBTLV1G125
 $FPLIST
  SOT*
@@ -75,6 +111,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74CBT1G384" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74CBTD1G384
 $FPLIST
  SOT*
@@ -97,6 +145,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G00" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G00 74AHCT1G00 74AUC1G00 74AUP1G00
 $FPLIST
  SOT*
@@ -120,6 +180,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G02" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G02 74AHCT1G02 74AUC1G02 74AUP1G02
 $FPLIST
  SOT*
@@ -148,6 +220,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G04" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LVC1GU04 74AHC1G04 74AHCT1G04 74AUC1G04 74AUP1G04 74AHC1GU04 74AHCT1GU04 74AUC1GU04 74AUP1GU04
 $FPLIST
  SOT*
@@ -169,6 +253,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G06" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G06 74AUP1G06
 $FPLIST
  SOT*
@@ -192,6 +288,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G07" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G07 74AUP1G07
 $FPLIST
  SOT*
@@ -215,6 +323,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G08" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G08 74AHCT1G08 74AUC1G08 74AUP1G08
 $FPLIST
  SOT*
@@ -238,6 +358,18 @@ F0 "U" -150 200 50 H V C CNN
 F1 "74LVC1G0832" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -272,6 +404,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G10" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -295,6 +439,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G11" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -318,6 +474,18 @@ F0 "U" -150 250 50 H V C CNN
 F1 "74LVC1G123" 0 -250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -342,6 +510,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G125" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G125 74AHCT1G125 74AUC1G125 74AUP1G125
 $FPLIST
  SOT*
@@ -364,6 +544,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G126" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G126 74AHCT1G126 74AUC1G126 74AUP1G126
 $FPLIST
  SOT*
@@ -386,6 +578,18 @@ F0 "U" -100 250 50 H V C CNN
 F1 "74LVC1G139" 0 -250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -410,6 +614,18 @@ F0 "U" 100 100 50 H V C CNN
 F1 "74LVC1G14" 300 -100 50 H V C CNN
 F2 "" 10 0 50 H I C CNN
 F3 "" 10 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G14 74AHCT1G14 74AUC1G14 74AUP1G14
 $FPLIST
  SOT*
@@ -433,6 +649,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G17" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G17 74AUP1G17
 $FPLIST
  SOT*
@@ -456,6 +684,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G175" 200 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SC*
@@ -478,6 +718,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G18" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G18
 $FPLIST
  SOT*
@@ -502,6 +754,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G19" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G19
 $FPLIST
  SOT*
@@ -525,6 +789,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G240" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G240 74AUP1G240
 $FPLIST
  SOT*
@@ -547,6 +823,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G27" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -573,6 +861,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G29" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -597,6 +897,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G3157" 0 -250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SC*
@@ -641,6 +953,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G32" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G32 74AHCT1G32 74AUC1G32 74AUP1G32
 $FPLIST
  SOT*
@@ -669,6 +993,18 @@ F0 "U" -150 200 50 H V C CNN
 F1 "74LVC1G3208" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -702,6 +1038,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G332" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -728,6 +1076,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G34" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUP1G34
 $FPLIST
  SOT*
@@ -749,6 +1109,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G373" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SC*
@@ -771,6 +1143,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G374" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SC*
@@ -793,6 +1177,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G38" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -817,6 +1213,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G386" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*
  SG-*
@@ -844,6 +1252,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G57" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUP1G57 74LVC1G97 74AUP1G97
 $FPLIST
  SOT*
@@ -867,6 +1287,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G58" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUP1G58 74LVC1G98 74AUP1G98
 $FPLIST
  SOT*
@@ -890,6 +1322,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G66" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G66
 $FPLIST
  SOT*
@@ -921,6 +1365,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G79" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G79 74AUP1G79
 $FPLIST
  SOT*
@@ -943,6 +1399,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1G80" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC1G80 74AUP1G80
 $FPLIST
  SOT*
@@ -965,6 +1433,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC1G86" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHC1G86 74AHCT1G86 74AUC1G86
 $FPLIST
  SOT*
@@ -994,6 +1474,18 @@ F0 "U" -150 275 50 H V L BNN
 F1 "74LVC1G99" -150 225 50 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUP1G99
 $FPLIST
  SSOP*
@@ -1019,6 +1511,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC1GU04DRL" 350 200 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-553" 0 -250 50 H I C CNN
 F3 "" -75 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*553*
 $ENDFPLIST
@@ -1041,6 +1545,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G00" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G00 74AHC2G00 74AHCT2G00
 $FPLIST
  SSOP*
@@ -1067,6 +1583,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G02" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G02
 $FPLIST
  SSOP*
@@ -1098,6 +1626,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G04" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G04 74LVC2GU04 74AUC2GU04
 $FPLIST
  SG-*
@@ -1121,6 +1661,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G06" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G06
 $FPLIST
  SG-*
@@ -1146,6 +1698,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G07" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G07
 $FPLIST
  SG-*
@@ -1171,6 +1735,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G08" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G08
 $FPLIST
  SSOP*
@@ -1197,6 +1773,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G125" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G125
 $FPLIST
  VSSOP*
@@ -1221,6 +1809,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G126" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G126
 $FPLIST
  VSSOP*
@@ -1245,6 +1845,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G14" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SG-*
  SOT*
@@ -1269,6 +1881,18 @@ F0 "U" -100 250 50 H V C CNN
 F1 "74LVC2G157" 200 -250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1293,6 +1917,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G17" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SG-*
  SOT*
@@ -1317,6 +1953,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G240" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G240
 $FPLIST
  VSSOP*
@@ -1341,6 +1989,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G241" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G241
 $FPLIST
  VSSOP*
@@ -1365,6 +2025,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G32" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G32
 $FPLIST
  SSOP*
@@ -1396,6 +2068,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G34" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G34
 $FPLIST
  SG-*
@@ -1419,6 +2103,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G38" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1446,6 +2142,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC2G53" 0 -250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G53
 $FPLIST
  SSOP*
@@ -1498,6 +2206,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC2G66" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G66
 $FPLIST
  SSOP*
@@ -1532,6 +2252,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC2G74" 200 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1556,6 +2288,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC2G79" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G79
 $FPLIST
  SSOP*
@@ -1581,6 +2325,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "74LVC2G80" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G80
 $FPLIST
  SSOP*
@@ -1606,6 +2362,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC2G86" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AUC2G86
 $FPLIST
  SSOP*
@@ -1638,6 +2406,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC3G04" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LVC3GU04
 $FPLIST
  SSOP*
@@ -1663,6 +2443,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC3G06" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1689,6 +2481,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC3G07" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1715,6 +2519,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC3G14" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1741,6 +2557,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC3G17" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1767,6 +2595,18 @@ F0 "U" -100 150 50 H V C CNN
 F1 "74LVC3G34" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  VSSOP*
@@ -1791,6 +2631,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "NC7SVU04P5X" 300 200 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-353_SC-70-5" 0 -250 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT*353*SC*70*
 $ENDFPLIST
@@ -1812,6 +2664,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "SN74LVC1G14DBV" 400 200 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-23-5" 0 -250 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT?23*
 $ENDFPLIST
@@ -1835,6 +2699,18 @@ F0 "U" -100 200 50 H V C CNN
 F1 "SN74LVC1G14DRL" 400 200 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-553" 0 -250 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Features"
+F10 "?" 0 0 50 H I C CNN "Supply Voltage"
+F11 "?" 0 0 50 H I C CNN "Output High Current"
+F12 "?" 0 0 50 H I C CNN "Output Low Current"
+F13 "?" 0 0 50 H I C CNN "Quiescent Current"
+F14 "?" 0 0 50 H I C CNN "Max Propagation Delay"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT?553*
 $ENDFPLIST
