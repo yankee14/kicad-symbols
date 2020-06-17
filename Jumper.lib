@@ -50,6 +50,18 @@ F0 "JP" -100 -100 50 H V C CNN
 F1 "Jumper_3_Bridged12" 0 110 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Status 2"
+F9 "?" 0 0 50 H I C CNN "Manufacturer 2"
+F10 "?" 0 0 50 H I C CNN "MPN 2"
+F11 "?" 0 0 50 H I C CNN "Pitch"
+F12 "?" 0 0 50 H I C CNN "Type"
+F13 "?" 0 0 50 H I C CNN "Color"
+F14 "?" 0 0 50 H I C CNN "Shrouding"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  Jumper*
  TestPoint*3Pads*
