@@ -8,6 +8,20 @@ F0 "U" -300 1050 50 H V L CNN
 F1 "AD6644" 150 1050 50 H V L CNN
 F2 "Package_QFP:TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm" 0 -1300 50 H I C CNN
 F3 "" -100 -1250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS AD6645
 $FPLIST
  TQFP*1EP*10x10mm*P0.65mm*
@@ -77,6 +91,20 @@ F0 "U" -400 300 50 H V L CNN
 F1 "AD7171" 100 300 50 H V L CNN
 F2 "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm" 0 -525 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DFN*1EP*3x3mm*P0.5mm*EP1.55x2.48mm*
 $ENDFPLIST
@@ -103,6 +131,20 @@ F0 "U" -400 550 50 H V L CNN
 F1 "AD7298" 100 550 50 H V L CNN
 F2 "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LFCSP*1EP*4x4mm*P0.5mm*
 $ENDFPLIST
@@ -139,6 +181,20 @@ F0 "U" -600 1750 50 H V L CNN
 F1 "AD7606" 350 1750 50 H V L CNN
 F2 "Package_QFP:LQFP-64_10x10mm_P0.5mm" 950 -1750 50 H I C CIN
 F3 "" 150 -3250 50 V I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LQFP*10x10mm*P0.5mm*
 $ENDFPLIST
@@ -218,6 +274,20 @@ F0 "U" -600 1750 50 H V L CNN
 F1 "AD7606-4" 350 1750 50 H V L CNN
 F2 "Package_QFP:LQFP-64_10x10mm_P0.5mm" 950 -1750 50 H I C CIN
 F3 "" 150 -3250 50 V I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LQFP*10x10mm*P0.5mm*
 $ENDFPLIST
@@ -297,6 +367,20 @@ F0 "U" -600 1750 50 H V L CNN
 F1 "AD7606-6" 350 1750 50 H V L CNN
 F2 "Package_QFP:LQFP-64_10x10mm_P0.5mm" 950 -1750 50 H I C CIN
 F3 "" 150 -3250 50 V I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LQFP*10x10mm*P0.5mm*
 $ENDFPLIST
@@ -376,6 +460,20 @@ F0 "U" -1000 2250 50 H V L CNN
 F1 "AD7616" 700 2250 50 H V L CNN
 F2 "Package_QFP:LQFP-80_14x14mm_P0.65mm" 1300 -2250 50 H I C CIN
 F3 "" 100 -3000 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LQFP*14x14mm*P0.65mm*
 $ENDFPLIST
@@ -471,6 +569,20 @@ F0 "U" 350 550 50 H V C CNN
 F1 "AD7682BCP" -400 550 50 H V C CNN
 F2 "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm" 0 -850 50 H I C CNN
 F3 "" 0 -1000 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LFCSP*1EP*4x4mm*P0.5mm*
 $ENDFPLIST
@@ -507,6 +619,20 @@ F0 "U" -500 1450 50 H V L CNN
 F1 "AD7722" 200 1450 50 H V L CNN
 F2 "Package_QFP:MQFP-44_10x10mm_P0.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MQFP*10x10mm*P0.8mm*
 $ENDFPLIST
@@ -566,6 +692,20 @@ F0 "U" -400 725 50 H V L BNN
 F1 "AD7746" 400 725 50 H V R BNN
 F2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x5mm*P0.65mm*
 $ENDFPLIST
@@ -597,6 +737,20 @@ F0 "U" -600 950 50 H V L CNN
 F1 "AD7794" 300 950 50 H V L CNN
 F2 "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm" 0 0 50 H I C CNN
 F3 "" 100 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS AD7795
 $FPLIST
  TSSOP*4.4x7.8mm*P0.65mm*
@@ -637,6 +791,20 @@ F0 "U" -300 700 50 H V C CNN
 F1 "AD7819" 150 700 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -350 -650 350 650 0 1 10 f
 X VREF 1 -500 0 150 R 50 50 1 1 I
@@ -665,6 +833,20 @@ F0 "U" -400 650 50 H V L CNN
 F1 "AD7949BCP" 150 650 50 H V L CNN
 F2 "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS AD7689xCP AD7699BCP
 $FPLIST
  LFCSP*1EP*4x4mm*P0.5mm*
@@ -702,6 +884,20 @@ F0 "U" -550 1000 50 H V L CNN
 F1 "AD9280ARS" 300 1000 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -550 950 550 -950 0 1 10 f
 X AVSS 1 -100 -1100 150 U 50 50 1 1 W
@@ -740,6 +936,20 @@ F0 "U" -550 700 50 H V L CNN
 F1 "AD9283" 250 700 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -550 650 550 -650 0 1 10 f
 X PWRDWN 1 700 -500 150 L 50 50 1 1 I
@@ -772,6 +982,20 @@ F0 "U" -450 700 50 H V L CNN
 F1 "ADC0800" 200 700 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -450 -650 450 650 0 1 10 f
 X QE 1 600 100 150 L 50 50 1 1 T
@@ -802,6 +1026,20 @@ F0 "U" -650 700 50 H V L CNN
 F1 "ADC08060" 350 700 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -650 650 650 -650 0 1 10 f
 X AVDD 1 -300 800 150 D 50 50 1 1 W
@@ -838,6 +1076,20 @@ F0 "U" 150 450 50 H V C CNN
 F1 "ADC081C021CIMM" 400 350 50 H V C CNN
 F2 "Package_SO:MSOP-8_3x3mm_P0.65mm" 800 -350 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADC101C021CIMM ADC121C021CIMM
 $FPLIST
  MSOP*3x3mm*P0.65mm*
@@ -862,6 +1114,20 @@ F0 "U" -300 300 50 H V L CNN
 F1 "ADC0832" 150 300 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 P 6 0 1 10 -550 0 -300 250 450 250 450 -250 -300 -250 -550 0 f
 X CS 1 600 -100 150 L 50 50 1 1 I I
@@ -882,6 +1148,20 @@ F0 "U" -550 750 50 H V L CNN
 F1 "ADC1173" 350 750 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -600 700 600 -700 0 1 10 f
 X OE 1 700 -500 100 L 50 50 1 1 I
@@ -918,6 +1198,20 @@ F0 "U" -400 750 50 H V L CNN
 F1 "ADC128D818" 50 750 50 H V L CNN
 F2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x5mm*P0.65mm*
 $ENDFPLIST
@@ -949,6 +1243,20 @@ F0 "U" 100 550 50 H V C CNN
 F1 "ADS1013IDGS" 300 450 50 H V C CNN
 F2 "Package_SO:TSSOP-10_3x3mm_P0.5mm" 0 -500 50 H I C CNN
 F3 "" 50 -700 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS1113IDGS
 $FPLIST
  TSSOP*3x3mm*P0.5mm*
@@ -975,6 +1283,20 @@ F0 "U" 100 550 50 H V C CNN
 F1 "ADS1014IDGS" 300 450 50 H V C CNN
 F2 "Package_SO:TSSOP-10_3x3mm_P0.5mm" 0 -500 50 H I C CNN
 F3 "" -50 -900 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS1114IDGS
 $FPLIST
  TSSOP*3x3mm*P0.5mm*
@@ -1001,6 +1323,20 @@ F0 "U" 100 550 50 H V C CNN
 F1 "ADS1015IDGS" 300 450 50 H V C CNN
 F2 "Package_SO:TSSOP-10_3x3mm_P0.5mm" 0 -500 50 H I C CNN
 F3 "" -50 -900 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS1115IDGS
 $FPLIST
  TSSOP*3x3mm*P0.5mm*
@@ -1027,6 +1363,20 @@ F0 "U" 50 550 50 H V L CNN
 F1 "ADS1018IDGS" 50 450 50 H V L CNN
 F2 "" -50 -50 50 H I C CNN
 F3 "" -900 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS1118IDGS
 $FPLIST
  TSSOP*3x3mm*P0.5mm*
@@ -1053,6 +1403,20 @@ F0 "U" -300 350 50 H V L CNN
 F1 "ADS1110" 50 350 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23-6" 450 350 50 H I L CNN
 F3 "" -300 350 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOT?23*
 $ENDFPLIST
@@ -1074,6 +1438,20 @@ F0 "U" -600 450 50 H V L CNN
 F1 "ADS1120-PW" 250 450 50 H V L CNN
 F2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" 250 550 50 H I L CNN
 F3 "" -500 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS1220xPW
 $FPLIST
  *TSSOP*4.4x5mm*P0.65mm*
@@ -1106,6 +1484,20 @@ F0 "U" -600 450 50 H V L CNN
 F1 "ADS1120-RVA" 250 450 50 H V L CNN
 F2 "" -50 -50 50 H I C CNN
 F3 "" -850 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  QFN*3.5x3.5mm*P0.50mm*
 $ENDFPLIST
@@ -1138,6 +1530,20 @@ F0 "U" -550 1000 50 H V L CNN
 F1 "ADS1232IPW" 300 1000 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*
 $ENDFPLIST
@@ -1177,6 +1583,20 @@ F0 "U" -450 1000 50 H V C CNN
 F1 "ADS1234IPW" 300 1100 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*
 $ENDFPLIST
@@ -1220,6 +1640,20 @@ F0 "U" -450 900 50 H V L CNN
 F1 "ADS1243" 100 900 50 H V L CNN
 F2 "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" 1000 -900 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x6.5mm*P0.65mm*
 $ENDFPLIST
@@ -1255,6 +1689,20 @@ F0 "U" -400 300 50 H V L CNN
 F1 "ADS1251" 550 300 50 H V R CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -500 50 H I C CIN
 F3 "" -100 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*
 $ENDFPLIST
@@ -1278,6 +1726,20 @@ F0 "U" -650 1750 50 H V L CNN
 F1 "ADS1298xPAG" 250 1750 50 H V L CNN
 F2 "Package_QFP:TQFP-64_10x10mm_P0.5mm" 1550 -2050 50 H I C CIN
 F3 "" -450 1050 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TQFP*10x10mm*P0.5mm*
 $ENDFPLIST
@@ -1357,6 +1819,20 @@ F0 "U" -300 -300 50 H V L CNN
 F1 "ADS7040xDCU" 100 -300 50 H V L CNN
 F2 "Package_SO:VSSOP-8_2.3x2mm_P0.5mm" 100 650 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS7029 ADS7039 ADS7049 ADS7041xDCU ADS7042xDCU ADS7043xDCU ADS7044xDCU
 $FPLIST
  VSSOP*8*2.3x2mm*P0.5mm*
@@ -1381,6 +1857,20 @@ F0 "U" -200 600 50 H V C CNN
 F1 "ADS7828" 200 600 50 H V C CNN
 F2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" 950 -700 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x5mm*P0.65mm*
 $ENDFPLIST
@@ -1413,6 +1903,20 @@ F0 "U" 50 250 50 H V L CNN
 F1 "ADS7866" 50 -250 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TSOT-23-6" 0 -50 50 H I C CNN
 F3 "" 50 250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS7867 ADS7868
 $FPLIST
  *SOT?23?6*
@@ -1435,6 +1939,20 @@ F0 "U" 250 550 50 H V L CNN
 F1 "ADS8681RUM" 250 450 50 H V L CNN
 F2 "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm" 0 -900 50 H I C CNN
 F3 "" 50 250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADS8685RUM ADS8689RUM
 $FPLIST
  QFN*1EP*4x4mm*P0.65mm*EP2.7x2.7mm*
@@ -1468,6 +1986,20 @@ F0 "U" -350 1250 50 H V C CNN
 F1 "ADS8684" 350 1250 50 H V C CNN
 F2 "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm" 0 0 50 H I C CNN
 F3 "" 950 1300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x9.7mm*P0.5mm*
 $ENDFPLIST
@@ -1521,6 +2053,20 @@ F0 "U" -350 1250 50 H V C CNN
 F1 "ADS8688" 350 1250 50 H V C CNN
 F2 "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm" 0 0 50 H I C CNN
 F3 "" 950 1300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x9.7mm*P0.5mm*
 $ENDFPLIST
@@ -1574,6 +2120,20 @@ F0 "U" -450 700 50 H V L CNN
 F1 "CA3300" 200 700 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -450 -650 450 650 0 1 10 f
 X D5 1 600 -100 150 L 50 50 1 1 T
@@ -1604,6 +2164,20 @@ F0 "U" -500 1250 50 H V L CNN
 F1 "ICL7106CPL" 0 0 50 H V C CNN
 F2 "Package_DIP:DIP-40_W15.24mm" 0 -1250 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ICL7107CPL
 $FPLIST
  DIP*W15.24*
@@ -1660,6 +2234,20 @@ F0 "U" -250 350 50 H V C CNN
 F1 "INA219AxD" 200 350 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 800 -350 50 H I C CNN
 F3 "" 350 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS INA219BxD
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -1684,6 +2272,20 @@ F0 "U" -250 350 50 H V C CNN
 F1 "INA219AxDCN" 250 350 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-23-8" 650 -350 50 H I C CNN
 F3 "" 350 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS INA219BxDCN
 $FPLIST
  SOT?23*
@@ -1708,6 +2310,20 @@ F0 "U" -250 450 50 H V C CNN
 F1 "INA226" 150 450 50 H V C CNN
 F2 "Package_SO:VSSOP-10_3x3mm_P0.5mm" 800 -450 50 H I C CNN
 F3 "" 350 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS INA233
 $FPLIST
  VSSOP*3x3mm*P0.5mm*
@@ -1734,6 +2350,20 @@ F0 "U" -550 800 50 H V L CNN
 F1 "LTC1406CGN" 300 800 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1406IGN
 $FPLIST
  SSOP*
@@ -1774,6 +2404,20 @@ F0 "U" -450 700 50 H V L CNN
 F1 "LTC1594CS" 300 700 50 H V C CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1594IS
 $FPLIST
  SO*
@@ -1806,6 +2450,20 @@ F0 "U" -450 900 50 H V L CNN
 F1 "LTC1598CG" 100 900 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1598IG
 $FPLIST
  SSOP*
@@ -1846,6 +2504,20 @@ F0 "U" -400 1150 50 H V L CNN
 F1 "LTC1742" 400 1150 50 H V R CNN
 F2 "Package_SO:TSSOP-48_6.1x12.5mm_P0.5mm" 0 -1500 50 H I C CNN
 F3 "" -500 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1744 LTC1746 LTC1748
 $FPLIST
  TSSOP*6.1x12.5mm*P0.5mm*
@@ -1910,6 +2582,20 @@ F0 "U" -400 300 50 H V L CNN
 F1 "LTC1864L" 450 300 50 H V R CNN
 F2 "" -100 0 50 H I C CIN
 F3 "" -100 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1864
 $FPLIST
  MSOP*3x3mm*P0.65mm*
@@ -1935,6 +2621,20 @@ F0 "U" -400 300 50 H V L CNN
 F1 "LTC1865L-MS" 450 300 50 H V R CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1865-MS
 $FPLIST
  MSOP-10*
@@ -1961,6 +2661,20 @@ F0 "U" -400 300 50 H V L CNN
 F1 "LTC1865L-S8" 450 300 50 H V R CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC1865-S8
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -1985,6 +2699,20 @@ F0 "U" 0 100 50 H V C CNN
 F1 "LTC2282xUP" 0 0 50 H V C CNN
 F2 "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm" 0 -100 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC2284xUP LTC2290xUP LTC2291xUP LTC2292xUP LTC2293xUP LTC2294xUP LTC2295xUP LTC2296xUP LTC2297xUP LTC2298xUP LTC2299xUP
 $FPLIST
  QFN*1EP*9x9mm*P0.5mm*
@@ -2066,6 +2794,20 @@ F0 "U" -250 550 50 H V C CNN
 F1 "LTC2309_QFN" 50 550 50 H V L CNN
 F2 "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" 50 -650 50 H I L CNN
 F3 "" -350 550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  QFN*1EP*4x4mm*0.5mm*
 $ENDFPLIST
@@ -2106,6 +2848,20 @@ F0 "U" -250 550 50 H V C CNN
 F1 "LTC2309_TSSOP" 350 550 50 H V C CNN
 F2 "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" 1100 -650 50 H I C CNN
 F3 "" -250 550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x6.5mm*P0.65mm*
 $ENDFPLIST
@@ -2141,6 +2897,20 @@ F0 "U" -500 1450 50 H V L CNN
 F1 "LTC2358-16" 250 1450 50 H V L CNN
 F2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" 0 -1900 50 H I C CIN
 F3 "" -250 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC2358-18
 $FPLIST
  LQFP?48*7x7mm*P0.5mm*
@@ -2205,6 +2975,20 @@ F0 "U" -250 350 50 H V C CNN
 F1 "LTC2451xDDB" 450 350 50 H V C CNN
 F2 "Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.56x2.15mm" -600 500 50 H I C CNN
 F3 "" -700 500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DFN*8*1EP*2x3mm*P0.5mm*
 $ENDFPLIST
@@ -2229,6 +3013,20 @@ F0 "U" -250 350 50 H V C CNN
 F1 "LTC2451xTS8" 450 350 50 H V C CNN
 F2 "" -700 500 50 H I C CNN
 F3 "" -700 500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSOT*23*6*
 $ENDFPLIST
@@ -2252,6 +3050,20 @@ F0 "U" -400 750 50 H V R CNN
 F1 "LTC2508CDKD-32" 900 750 50 H V R CNN
 F2 "Package_DFN_QFN:DFN-24-1EP_4x7mm_P0.5mm_EP2.64x6.44mm" -950 -950 50 H I L CNN
 F3 "" 200 -1050 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTC2508IDKD-32
 $FPLIST
  DFN*1EP*4x7mm*P0.5mm*
@@ -2293,6 +3105,20 @@ F0 "U" 400 -550 50 H V R CNN
 F1 "MAX1112" 400 650 50 H V R CNN
 F2 "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm" 0 0 50 H I C CNN
 F3 "" 350 -550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x7.2mm*P0.65mm*
 $ENDFPLIST
@@ -2328,6 +3154,20 @@ F0 "U" -350 750 50 H V R CNN
 F1 "MAX11120xTI" 400 750 50 H V R CNN
 F2 "Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm" 0 850 50 H I C CNN
 F3 "" 350 -650 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX11121xTI MAX11122xTI
 $FPLIST
  *QFN*1EP*5x5mm*P0.5mm*
@@ -2373,6 +3213,20 @@ F0 "U" -350 750 50 H V R CNN
 F1 "MAX11123xTI" 400 750 50 H V R CNN
 F2 "Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm" 0 850 50 H I C CNN
 F3 "" 350 -650 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX11124xTI MAX11125xTI
 $FPLIST
  *QFN*1EP*5x5mm*P0.5mm*
@@ -2418,6 +3272,20 @@ F0 "U" -350 750 50 H V R CNN
 F1 "MAX11126xTI" 400 750 50 H V R CNN
 F2 "Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm" 0 850 50 H I C CNN
 F3 "" 350 -650 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX11127xTI MAX11128xTI
 $FPLIST
  *QFN*1EP*5x5mm*P0.5mm*
@@ -2463,6 +3331,20 @@ F0 "U" 400 -550 50 H V R CNN
 F1 "MAX1113" 400 650 50 H V R CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 0 0 50 H I C CNN
 F3 "" 350 -550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
 $ENDFPLIST
@@ -2494,6 +3376,20 @@ F0 "U" 450 -150 50 H V L CNN
 F1 "MAX11612" 450 -250 50 H V L CNN
 F2 "Package_SO:MSOP-8_3x3mm_P0.65mm" 450 -350 50 H I L CNN
 F3 "" 100 500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX11613
 $FPLIST
  MSOP*3x3mm*P0.65mm*
@@ -2518,6 +3414,20 @@ F0 "U" 450 -450 50 H V L CNN
 F1 "MAX11614" 450 -550 50 H V L CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 450 -650 50 H I L CNN
 F3 "" 100 800 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX11615
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
@@ -2550,6 +3460,20 @@ F0 "U" 450 -450 50 H V L CNN
 F1 "MAX11616" 450 -550 50 H V L CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 450 -650 50 H I L CNN
 F3 "" 100 800 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX11617
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
@@ -2582,6 +3506,20 @@ F0 "U" -400 750 50 H V L CNN
 F1 "MAX1248" 0 0 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX1249
 $FPLIST
  DIP*
@@ -2615,6 +3553,20 @@ F0 "U" 50 650 50 H V L CNN
 F1 "MAX1274" 50 550 50 H V L CNN
 F2 "" 0 -550 50 H I C CIN
 F3 "" 0 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MAX1275
 $FPLIST
  *QFN*4x4mm*P0.8mm*
@@ -2644,6 +3596,20 @@ F0 "U" -250 450 50 H V C CNN
 F1 "MCP3002" 450 450 50 H V C CNN
 F2 "" 0 -100 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MCP3202
 $FPLIST
  DIP*W7.62mm**
@@ -2671,6 +3637,20 @@ F0 "U" -450 350 50 H V C CNN
 F1 "MCP3004" 400 350 50 H V C CNN
 F2 "" 900 -300 50 H I C CNN
 F3 "" 900 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  SOIC*3.9x8.7mm*P1.27mm*
@@ -2711,6 +3691,20 @@ F0 "U" 150 350 50 H V L CNN
 F1 "MCP3201" 150 250 50 H V L CNN
 F2 "" 750 -350 50 H I C CNN
 F3 "" 800 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
  DIP*W7.62mm*
@@ -2737,6 +3731,20 @@ F0 "U" -200 425 50 H V R CNN
 F1 "MCP3204" -200 350 50 H V R CNN
 F2 "" 900 -300 50 H I C CNN
 F3 "" 900 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x8.7mm*P1.27mm*
  DIP*W7.62mm*
@@ -2777,6 +3785,20 @@ F0 "U" -200 525 50 H V R CNN
 F1 "MCP3208" -200 450 50 H V R CNN
 F2 "" 100 100 50 H I C CNN
 F3 "" 100 100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MCP3008
 $FPLIST
  DIP*W7.62mm*
@@ -2819,6 +3841,20 @@ F0 "U" 175 425 50 H V L CNN
 F1 "MCP3301" 175 350 50 H V L CNN
 F2 "" 800 -100 50 H I C CNN
 F3 "" 800 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  SOIC*3.9x4.9mm*P1.27mm*
@@ -2843,6 +3879,20 @@ F0 "U" -100 450 50 H V R CNN
 F1 "MCP3422" -100 350 50 H V R CNN
 F2 "" 900 -300 50 H I C CNN
 F3 "" 900 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MSOP*3x3mm*P0.65mm*
  SOIC*3.9x4.9mm*P1.27mm*
@@ -2884,6 +3934,20 @@ F0 "U" -100 450 50 H V R CNN
 F1 "MCP3423" -100 350 50 H V R CNN
 F2 "Package_SO:MSOP-10_3x3mm_P0.5mm" 50 -450 50 H I L CNN
 F3 "" 900 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MSOP*3x3mm*P0.5mm*
 $ENDFPLIST
@@ -2926,6 +3990,20 @@ F0 "U" -100 450 50 H V R CNN
 F1 "MCP3424" -100 350 50 H V R CNN
 F2 "" 900 -300 50 H I C CNN
 F3 "" 900 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x8.7mm*P1.27mm*
  TSSOP*4.4x5mm*P0.65mm*
@@ -2973,6 +4051,20 @@ F0 "U" -400 300 50 H V L CNN
 F1 "MCP3425A0T-ECH" 100 300 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MCP3425A1T-ECH MCP3425A2T-ECH MCP3425A3T-ECH MCP3421A0T-ECH
 $FPLIST
  SOT?23*
@@ -2996,6 +4088,20 @@ F0 "U" -150 350 50 H V R CNN
 F1 "MCP3426-xMC" 100 350 50 H V L CNN
 F2 "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DFN*3x2mm*P0.5mm*
 $ENDFPLIST
@@ -3020,6 +4126,20 @@ F0 "U" -150 350 50 H V R CNN
 F1 "MCP3426-xMS" 100 350 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MCP3426-xSN
 $FPLIST
  MSOP*3x3mm*P0.65mm*
@@ -3045,6 +4165,20 @@ F0 "U" -150 350 50 H V R CNN
 F1 "MCP3427-xMF" 100 350 50 H V L CNN
 F2 "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DFN*3x3mm*P0.5mm*
 $ENDFPLIST
@@ -3071,6 +4205,20 @@ F0 "U" -150 350 50 H V R CNN
 F1 "MCP3427-xUN" 100 350 50 H V L CNN
 F2 "Package_SO:MSOP-10_3x3mm_P0.5mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MSOP*3x3mm*P0.5mm*
 $ENDFPLIST
@@ -3096,6 +4244,20 @@ F0 "U" -150 450 50 H V R CNN
 F1 "MCP3428" 100 450 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x5mm*P0.65mm*
  SOIC*3.9x8.7mm*P1.27mm*
@@ -3126,6 +4288,20 @@ F0 "U" -450 300 50 H V L CNN
 F1 "MCP3550-50-EMS" 200 300 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MCP3551-EMS
 $FPLIST
  MSOP*
@@ -3150,6 +4326,20 @@ F0 "U" -200 300 50 H V L CNN
 F1 "MCP3550-60-ESN" 200 300 50 H V L CNN
 F2 "" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS MCP3553-ESN
 $FPLIST
  SO*
@@ -3174,6 +4364,20 @@ F0 "U" -350 650 50 H V C CNN
 F1 "PAC1931x-xJQ" 300 650 50 H V C CNN
 F2 "Package_DFN_QFN:UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm" 1400 -650 50 H I C CNN
 F3 "" -250 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  UQFN*1EP*4x4mm*P0.65mm*
 $ENDFPLIST
@@ -3206,6 +4410,20 @@ F0 "U" -350 650 50 H V C CNN
 F1 "PAC1932x-xJQ" 300 650 50 H V C CNN
 F2 "Package_DFN_QFN:UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm" 1400 -650 50 H I C CNN
 F3 "" -250 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  UQFN*1EP*4x4mm*P0.65mm*
 $ENDFPLIST
@@ -3238,6 +4456,20 @@ F0 "U" -350 650 50 H V C CNN
 F1 "PAC1933x-xJQ" 300 650 50 H V C CNN
 F2 "Package_DFN_QFN:UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm" 1400 -650 50 H I C CNN
 F3 "" -250 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  UQFN*1EP*4x4mm*P0.65mm*
 $ENDFPLIST
@@ -3270,6 +4502,20 @@ F0 "U" -350 650 50 H V C CNN
 F1 "PAC1934x-xJQ" 300 650 50 H V C CNN
 F2 "Package_DFN_QFN:UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm" 1400 -650 50 H I C CNN
 F3 "" -250 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Number of Bits"
+F9 "?" 0 0 50 H I C CNN "Sampling Rate"
+F10 "?" 0 0 50 H I C CNN "Number of Inputs"
+F11 "?" 0 0 50 H I C CNN "Number of ADCs"
+F12 "?" 0 0 50 H I C CNN "Architecture"
+F13 "?" 0 0 50 H I C CNN "Reference Type"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Digital Supply Voltage"
+F16 "?" 0 0 50 H I C CNN "Analog Supply Voltage"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  UQFN*1EP*4x4mm*P0.65mm*
 $ENDFPLIST
