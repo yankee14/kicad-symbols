@@ -8,6 +8,23 @@ F0 "U" 100 700 50 H V C CNN
 F1 "Ai-Thinker-Ra-01" 400 -550 50 H V C CNN
 F2 "RF_Module:Ai-Thinker-Ra-01-LoRa" 1000 -400 50 H I C CNN
 F3 "" 100 700 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  Ai?Thinker?Ra?01*
 $ENDFPLIST
@@ -39,6 +56,23 @@ F0 "U" -700 1450 50 H V C CNN
 F1 "CMWX1ZZABZ-078" 650 1450 50 H V C CNN
 F2 "RF_Module:CMWX1ZZABZ" 0 0 50 H I C CNN
 F3 "" 2450 -1500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS CMWX1ZZABZ-091
 $FPLIST
  CMWX1ZZABZ*
@@ -112,6 +146,23 @@ F0 "U" -450 950 50 H V C CNN
 F1 "D52MxxM8" 300 950 50 H V C CNN
 F2 "RF_Module:Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm" 0 -1150 50 H I C CNN
 F3 "" 100 -850 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  Garmin*M8*9.8x14.0mm*Layout6x6*P1.5mm*
 $ENDFPLIST
@@ -162,6 +213,23 @@ F0 "DWM" 300 1000 50 H V C CNN
 F1 "DWM1000" 50 150 50 H V C CNN
 F2 "RF_Module:DWM1000" 700 -1000 50 H I C CNN
 F3 "" 2400 -1100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  *DWM1000*
 $ENDFPLIST
@@ -201,6 +269,23 @@ F0 "U" -500 1100 50 H V L CNN
 F1 "DWM1001" -500 1000 50 H V L CNN
 F2 "RF_Module:DecaWave_DWM1001" 700 -950 50 H I C CNN
 F3 "" 900 -800 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  *DWM1001*
 $ENDFPLIST
@@ -250,6 +335,23 @@ F0 "U" -100 850 50 H V R CNN
 F1 "E18-MS1-PCB" -100 750 50 H V R CNN
 F2 "RF_Module:E18-MS1-PCB" -200 200 50 H I C CNN
 F3 "" -200 200 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  E18-MS1-PCB*
 $ENDFPLIST
@@ -289,6 +391,23 @@ F0 "U" 0 50 50 H V C CNN
 F1 "E73-2G4M04S-52832" 0 -50 50 H V C CNN
 F2 "RF_Module:E73-2G4M04S" 0 450 50 H I C CNN
 F3 "" 0 450 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS E73-2G4M04S-52810
 $FPLIST
  E73*2G4M04S*
@@ -349,6 +468,23 @@ F0 "U" -500 750 50 H V L CNN
 F1 "ESP-07" 500 750 50 H V R CNN
 F2 "RF_Module:ESP-07" 0 0 50 H I C CNN
 F3 "" -350 100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  ESP?07*
 $ENDFPLIST
@@ -380,6 +516,23 @@ F0 "U" -500 750 50 H V L CNN
 F1 "ESP-12E" 500 750 50 H V R CNN
 F2 "RF_Module:ESP-12E" 0 0 50 H I C CNN
 F3 "" -350 100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ESP-12F
 $FPLIST
  ESP?12*
@@ -418,6 +571,23 @@ F0 "U" -300 550 50 H V C CNN
 F1 "ESP-WROOM-02" 400 550 50 H V C CNN
 F2 "RF_Module:ESP-WROOM-02" 600 -550 50 H I C CNN
 F3 "" 50 1500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  ESP?WROOM?02*
 $ENDFPLIST
@@ -452,6 +622,23 @@ F0 "U" -700 1550 50 H V L CNN
 F1 "ESP32-PICO-D4" 150 1550 50 H V L CNN
 F2 "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm" 0 -1700 50 H I C CNN
 F3 "" 250 -1000 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  QFN*1EP*7x7mm*P0.5mm*
 $ENDFPLIST
@@ -516,6 +703,23 @@ F0 "U" -500 1150 50 H V L CNN
 F1 "ESP32-S2-WROVER" 100 1150 50 H V L CNN
 F2 "RF_Module:ESP32-S2-WROVER" 750 -1150 50 H I C CNN
 F3 "" -300 -800 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ESP32-S2-WROVER-I
 $FPLIST
  ESP32?S2?WROVER*
@@ -575,6 +779,23 @@ F0 "U" -500 1350 50 H V L CNN
 F1 "ESP32-WROOM-32" 50 1350 50 H V L CNN
 F2 "RF_Module:ESP32-WROOM-32" 0 -1500 50 H I C CNN
 F3 "" -300 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ESP32-WROOM-32D
 $FPLIST
  ESP32?WROOM?32*
@@ -630,6 +851,23 @@ F0 "U" -500 1350 50 H V L CNN
 F1 "ESP32-WROOM-32U" 50 1350 50 H V L CNN
 F2 "RF_Module:ESP32-WROOM-32U" 0 -1500 50 H I C CNN
 F3 "" -300 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  ESP32?WROOM?32U*
 $ENDFPLIST
@@ -684,6 +922,23 @@ F0 "U" -1050 850 50 H V C CNN
 F1 "MM002" 950 850 50 H V C CNN
 F2 "" -550 -1100 50 H I C CNN
 F3 "" -550 -1100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 S -1100 800 1100 -700 0 1 10 f
 X GND 1 -200 -800 100 U 50 50 1 1 W
@@ -724,6 +979,23 @@ F0 "U" -950 1850 50 H V C CNN
 F1 "Particle_P1" -950 1950 50 H V C CNN
 F2 "RF_Module:Particle_P1" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  Particle*P1*
 $ENDFPLIST
@@ -814,6 +1086,23 @@ F0 "U" -150 450 50 H V C CNN
 F1 "RFM69HW" -300 550 50 H V C CNN
 F2 "RF_Module:HOPERF_RFM69HW" 0 -600 50 H I C CNN
 F3 "" 0 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS RFM69W
 $FPLIST
  HOPERF*RFM69HW*
@@ -846,6 +1135,23 @@ F0 "U" -410 460 50 H V L CNN
 F1 "RFM95W-868S2" 60 450 50 H V L CNN
 F2 "" -3300 1650 50 H I C CNN
 F3 "" -3300 1650 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS RFM95W-915S2 RFM96W-315S2 RFM96W-433S2 RFM97W-868S2 RFM97W-915S2 RFM98W-315S2 RFM98W-433S2 RFM69HCW
 $FPLIST
  HOPERF*RFM9XW*
@@ -878,6 +1184,23 @@ F0 "U" -450 450 50 H V C CNN
 F1 "TD1205" 350 450 50 H V C CNN
 F2 "RF_Module:TD1205" 450 -350 50 H I C CNN
 F3 "" -250 -1400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TD1205*
 $ENDFPLIST
@@ -902,6 +1225,23 @@ F0 "U" -450 750 50 H V C CNN
 F1 "TD1208" 350 750 50 H V C CNN
 F2 "RF_Module:TD1208" 700 -850 50 H I C CNN
 F3 "" -250 -1100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TD1208*
 $ENDFPLIST
@@ -942,6 +1282,23 @@ F0 "U" -1000 450 50 H V L CNN
 F1 "TR-52DA" 1000 450 50 H V R CNN
 F2 "RF_Module:IQRF_TRx2DA_KON-SIM-01" -1000 -450 50 H I L CNN
 F3 "" 1000 -550 50 H I R CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS DCTR-52DA DCTR-52DAT TR-52DAT TR-72DA TR-72DAT
 $FPLIST
  IQRF?TRx2DA?KON?SIM?01*
@@ -966,6 +1323,23 @@ F0 "U" -750 850 50 H V C CNN
 F1 "iM880A" 750 850 50 H V C CNN
 F2 "" -200 -1100 50 H I C CNN
 F3 "" -200 -1100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "RF Family"
+F9 "?" 0 0 50 H I C CNN "Protocol"
+F10 "?" 0 0 50 H I C CNN "Modulation"
+F11 "?" 0 0 50 H I C CNN "Frequency"
+F12 "?" 0 0 50 H I C CNN "Data Rate"
+F13 "?" 0 0 50 H I C CNN "Power Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Interfaces"
+F16 "?" 0 0 50 H I C CNN "Antenna Type"
+F17 "?" 0 0 50 H I C CNN "Memory Size"
+F18 "?" 0 0 50 H I C CNN "Supply Voltage"
+F19 "?" 0 0 50 H I C CNN "FCC et al"
+F20 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS iM880B
 DRAW
 S -800 800 900 -800 0 1 10 f
