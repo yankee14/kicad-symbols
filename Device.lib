@@ -197,15 +197,18 @@ F0 "C" 25 100 50 H V L CNN
 F1 "C" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
-F5 "?" 0 0 50 H I C CNN "MPN 1"
-F6 "?" 0 0 50 H I C CNN "Max Voltage"
-F7 "?" 0 0 50 H I C CNN "Tolerance"
-F8 "?" 0 0 50 H I C CNN "Temperature Coefficient"
-F9 "?" 0 0 50 H I C CNN "Type"
-F10 "?" 0 0 50 H I C CNN "Ripple Current Low Frequency"
-F11 "?" 0 0 50 H I C CNN "Ripple Current High Frequency"
-F12 "?" 0 0 50 H I C CNN "Safety Rating"
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Max Voltage"
+F9 "?" 0 0 50 H I C CNN "Tolerance"
+F10 "?" 0 0 50 H I C CNN "Temperature Coefficient"
+F11 "?" 0 0 50 H I C CNN "Type"
+F12 "?" 0 0 50 H I C CNN "Ripple Current Low Frequency"
+F13 "?" 0 0 50 H I C CNN "Ripple Current High Frequency"
+F14 "?" 0 0 50 H I C CNN "Safety Rating"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  C_*
 $ENDFPLIST
@@ -401,15 +404,18 @@ F0 "C" 10 70 50 H V L CNN
 F1 "C_Small" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
-F5 "?" 0 0 50 H I C CNN "MPN 1"
-F6 "?" 0 0 50 H I C CNN "Max Voltage"
-F7 "?" 0 0 50 H I C CNN "Tolerance"
-F8 "?" 0 0 50 H I C CNN "Temperature Coefficient"
-F9 "?" 0 0 50 H I C CNN "Type"
-F10 "?" 0 0 50 H I C CNN "Ripple Current Low Frequency"
-F11 "?" 0 0 50 H I C CNN "Ripple Current High Frequency"
-F12 "?" 0 0 50 H I C CNN "Safety Rating"
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Max Voltage"
+F9 "?" 0 0 50 H I C CNN "Tolerance"
+F10 "?" 0 0 50 H I C CNN "Temperature Coefficient"
+F11 "?" 0 0 50 H I C CNN "Type"
+F12 "?" 0 0 50 H I C CNN "Ripple Current Low Frequency"
+F13 "?" 0 0 50 H I C CNN "Ripple Current High Frequency"
+F14 "?" 0 0 50 H I C CNN "Safety Rating"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  C_*
 $ENDFPLIST
