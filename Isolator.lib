@@ -8,6 +8,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "4N25" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-6_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 4N26 TIL111 4N27 4N28 4N35 4N36 4N37
 $FPLIST
  DIP*W7.62mm*
@@ -42,6 +60,24 @@ F0 "U" -200 300 50 H V L CNN
 F1 "6N135" 0 300 50 H V L CNN
 F2 "Package_DIP:DIP-8_W7.62mm" -200 -300 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 6N136
 $FPLIST
  DIP*W7.62mm*
@@ -82,6 +118,24 @@ F0 "U" -200 300 50 H V L CNN
 F1 "6N135S" 0 300 50 H V L CNN
 F2 "Package_DIP:SMDIP-8_W9.53mm" -200 -300 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 6N136S
 $FPLIST
  SMDIP*W9.53mm*
@@ -122,6 +176,24 @@ F0 "U" -160 350 50 H V C CNN
 F1 "6N138" 90 350 50 H V C CNN
 F2 "" 290 -300 50 H I C CNN
 F3 "" 290 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 6N139
 $FPLIST
  DIP*W7.62mm*
@@ -168,6 +240,24 @@ F0 "U" -450 550 50 H V C CNN
 F1 "ADN4651" 550 550 50 H V C CNN
 F2 "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm" 0 -600 50 H I C CNN
 F3 "" -350 700 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x7.2mm*P0.65mm*
 $ENDFPLIST
@@ -212,6 +302,24 @@ F0 "U" -450 550 50 H V C CNN
 F1 "ADN4652" 550 550 50 H V C CNN
 F2 "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm" 0 -600 50 H I C CNN
 F3 "" -250 800 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x7.2mm*P0.65mm*
 $ENDFPLIST
@@ -256,6 +364,24 @@ F0 "U" -400 350 50 H V L CNN
 F1 "ADuM1200AR" -80 350 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -400 50 H I C CIN
 F3 "" -450 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADuM1200BR ADuM1200CR ADuM1200WS ADuM1200WT ADuM1200WU
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -290,6 +416,24 @@ F0 "U" -400 350 50 H V L CNN
 F1 "ADuM1201AR" -80 350 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -400 50 H I C CIN
 F3 "" 0 -100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ADuM1201BR ADuM1201CR ADuM1201WS ADuM1201WT ADuM1201WU
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -324,6 +468,24 @@ F0 "U" -400 350 50 H V L CNN
 F1 "ADuM120N" -80 350 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -400 50 H I C CIN
 F3 "" -450 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
@@ -357,6 +519,24 @@ F0 "U" -400 350 50 H V L CNN
 F1 "ADuM121N" 150 350 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -700 50 H I C CIN
 F3 "" -450 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
@@ -390,6 +570,24 @@ F0 "U" 0 750 50 H V C CNN
 F1 "ADuM1400xRW" 0 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -575 50 H I C CNN
 F3 "" -800 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -511,6 +709,24 @@ F0 "U" 0 750 50 H V C CNN
 F1 "ADuM1401xRW" 0 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -575 50 H I C CNN
 F3 "" -800 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -634,6 +850,24 @@ F0 "U" 0 750 50 H V C CNN
 F1 "ADuM1402xRW" 0 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -575 50 H I C CNN
 F3 "" -800 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -758,6 +992,24 @@ F0 "U" 0 750 50 H V C CNN
 F1 "ADuM1410" 0 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -700 50 H I C CNN
 F3 "" -800 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -893,6 +1145,24 @@ F0 "U" 0 750 50 H V C CNN
 F1 "ADuM1411" 0 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -700 50 H I C CNN
 F3 "" -800 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -1030,6 +1300,24 @@ F0 "U" 0 750 50 H V C CNN
 F1 "ADuM1412" 0 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -700 50 H I C CNN
 F3 "" -800 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -1168,6 +1456,24 @@ F0 "U" -450 650 50 H V C CNN
 F1 "ADuM260N" 300 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm" 0 -600 50 H I C CNN
 F3 "" 0 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x12.8mm*P1.27mm*
 $ENDFPLIST
@@ -1368,6 +1674,24 @@ F0 "U" -450 650 50 H V C CNN
 F1 "ADuM261N" 300 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm" 0 -600 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x12.8mm*P1.27mm*
 $ENDFPLIST
@@ -1568,6 +1892,24 @@ F0 "U" -450 650 50 H V C CNN
 F1 "ADuM262N" 300 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm" 0 -600 50 H I C CNN
 F3 "" 0 1100 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x12.8mm*P1.27mm*
 $ENDFPLIST
@@ -1768,6 +2110,24 @@ F0 "U" -450 650 50 H V C CNN
 F1 "ADuM263N" 300 650 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm" 0 -600 50 H I C CNN
 F3 "" 0 750 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x12.8mm*P1.27mm*
 $ENDFPLIST
@@ -1968,6 +2328,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5401" 150 550 50 H V L CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -950 50 H I C CIN
 F3 "" -450 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -2011,6 +2389,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5402" 150 550 50 H V L CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -950 50 H I C CIN
 F3 "" -450 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -2054,6 +2450,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5403" 150 550 50 H V L CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -950 50 H I C CIN
 F3 "" -450 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -2097,6 +2511,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5404" 150 550 50 H V L CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -950 50 H I C CIN
 F3 "" -450 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -2140,6 +2572,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5410" 250 550 50 H V L CNN
 F2 "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm" 0 -1100 50 H I C CIN
 F3 "" -400 250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x8.2mm*P0.65mm*
 $ENDFPLIST
@@ -2191,6 +2641,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5411" 250 550 50 H V L CNN
 F2 "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm" 50 -1150 50 H I C CIN
 F3 "" -500 250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x8.2mm*P0.65mm*
 $ENDFPLIST
@@ -2242,6 +2710,24 @@ F0 "U" -400 550 50 H V L CNN
 F1 "ADuM5412" 260 560 50 H V L CNN
 F2 "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm" 50 -1150 50 H I C CIN
 F3 "" -500 350 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x8.2mm*P0.65mm*
 $ENDFPLIST
@@ -2293,6 +2779,24 @@ F0 "U" 50 750 50 H V L CNN
 F1 "ADuM7643" 50 650 50 H V L CNN
 F2 "Package_SO:QSOP-20_3.9x8.7mm_P0.635mm" 0 -700 50 H I C CIN
 F3 "" 0 500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  QSOP*
 $ENDFPLIST
@@ -2348,6 +2852,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "CNY17-1" 0 200 50 H V L CNN
 F2 "" 0 0 50 H I L CNN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS CNY17-2 CNY17-3 CNY17-4
 $FPLIST
  DIP*W7.62mm*
@@ -2386,6 +2908,24 @@ F0 "U" -210 190 50 H V L CNN
 F1 "EL814" 0 200 50 H V L CNN
 F2 "" -200 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  DIP*W10.16mm*
@@ -2427,6 +2967,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "FODM214" 0 200 50 H V L CNN
 F2 "Package_SO:SOP-4_4.4x2.6mm_P1.27mm" 0 -250 50 H I C CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS FODM214A
 $FPLIST
  SOP*4.4x2.6mm*P1.27mm*
@@ -2465,6 +3023,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "FODM217A" 0 200 50 H V L CNN
 F2 "Package_SO:SOP-4_4.4x2.6mm_P1.27mm" 0 -200 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS FODM217B FODM217C FODM217D
 $FPLIST
  SOP*4.4x2.6mm*P1.27mm*
@@ -2497,6 +3073,24 @@ F0 "U" -210 195 50 H V L CNN
 F1 "H11AA1" 25 195 50 H V L CNN
 F2 "Package_DIP:DIP-6_W7.62mm" -490 -195 50 H I L CIN
 F3 "" 760 630 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -2537,6 +3131,24 @@ F0 "U" 50 350 50 H V L CNN
 F1 "H11L1" 50 250 50 H V L CNN
 F2 "" -90 0 50 H I C CNN
 F3 "" -90 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS H11L2 H11L3
 $FPLIST
  DIP*W7.62mm*
@@ -2570,6 +3182,24 @@ F0 "U" -200 250 50 H V C CNN
 F1 "HCNW2201" 250 250 50 H V C CNN
 F2 "Package_DIP:DIP-8_W10.16mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCNW2211
 $FPLIST
  DIP*W10.16mm*
@@ -2607,6 +3237,24 @@ F0 "U" -200 250 50 H V C CNN
 F1 "HCPL-0201" 250 250 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 0 50 H I C CNN
 F3 "" 10 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-0211
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
@@ -2644,6 +3292,24 @@ F0 "U" -160 350 50 H V C CNN
 F1 "HCPL-061A" 10 -360 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -500 50 H I C CNN
 F3 "" -850 600 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-061N HCPL-0600 HCPL-0601 HCPL-0611 VO0600T VO0601T VO0611T
 $FPLIST
  SOIC*3.9x4.9mm?P1.27mm*
@@ -2694,6 +3360,24 @@ F0 "U" -160 450 50 H V C CNN
 F1 "HCPL-063A" 310 450 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -700 50 H I C CNN
 F3 "" -850 600 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-063N HCPL-0630 HCPL-0631 HCPL-0661 VO0630T VO0631T VO0661T
 $FPLIST
  SOIC*3.9x4.9mm?P1.27mm*
@@ -2744,6 +3428,24 @@ F0 "U" -200 250 50 H V C CNN
 F1 "HCPL-2201" 250 250 50 H V C CNN
 F2 "Package_DIP:DIP-8_W7.62mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-2211
 $FPLIST
  DIP*W7.62mm*
@@ -2781,6 +3483,24 @@ F0 "U" -200 250 50 H V C CNN
 F1 "HCPL-2202" 250 250 50 H V C CNN
 F2 "Package_DIP:DIP-8_W7.62mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-2212
 $FPLIST
  DIP*W7.62mm*
@@ -2818,6 +3538,24 @@ F0 "U" -160 350 50 H V C CNN
 F1 "HCPL-261A" 0 -350 50 H V C CNN
 F2 "Package_DIP:DIP-8_W7.62mm" 0 -500 50 H I C CNN
 F3 "" -850 550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-261N 6N137 HCPL-2601 HCPL-2611 VO2601 VO2611
 $FPLIST
  DIP*W7.62mm*
@@ -2868,6 +3606,24 @@ F0 "U" -160 450 50 H V C CNN
 F1 "HCPL-263A" 300 450 50 H V C CNN
 F2 "Package_DIP:DIP-8_W7.62mm" 100 -720 50 H I C CNN
 F3 "" -400 350 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL-263N HCPL-2630 HCPL-2631 HCPL-4661 VO2630 VO2631 VO4661 CPC-5002
 $FPLIST
  DIP*W7.62mm*
@@ -2918,6 +3674,24 @@ F0 "U" -300 350 50 H V C CNN
 F1 "HCPL-9000" 400 350 50 H V C CNN
 F2 "Package_DIP:DIP-8_W7.62mm" -50 -700 50 H I C CNN
 F3 "" -50 350 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -2947,6 +3721,24 @@ F0 "U" -200 400 50 H V L CNN
 F1 "HCPL2731" -200 -400 50 H V L CNN
 F2 "" -25 0 50 H I C CNN
 F3 "" -25 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS HCPL2730
 $FPLIST
  DIP*W7.62mm*
@@ -3018,6 +3810,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "ILD74" 0 200 50 H V L CNN
 F2 "" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  DIP*W10.16mm*
@@ -3055,6 +3865,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "ILQ74" 0 200 50 H V L CNN
 F2 "" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  DIP*W10.16mm*
@@ -3100,6 +3928,24 @@ F0 "U" -350 250 50 H V C CNN
 F1 "ISO1211" 350 250 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -750 50 H I C CNN
 F3 "" -50 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
@@ -3128,6 +3974,24 @@ F0 "U" -350 550 50 H V C CNN
 F1 "ISO1212" 350 550 50 H V C CNN
 F2 "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm" 0 -950 50 H I C CNN
 F3 "" -50 350 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*3.9x4.9mm*P0.635mm*
 $ENDFPLIST
@@ -3173,6 +4037,24 @@ F0 "U" -250 250 50 H V C CNN
 F1 "ISO1540" 150 250 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -350 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
@@ -3205,6 +4087,24 @@ F0 "U" -250 250 50 H V C CNN
 F1 "ISO1541" 150 250 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -350 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
@@ -3236,6 +4136,24 @@ F0 "U" 0 425 50 H V C CNN
 F1 "ISO7320C" 0 350 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -350 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7320FC
 $FPLIST
  SO*
@@ -3274,6 +4192,24 @@ F0 "U" 0 425 50 H V C CNN
 F1 "ISO7321C" 0 350 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 -350 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7321FC
 $FPLIST
  SO*
@@ -3312,6 +4248,24 @@ F0 "U" -250 450 50 H V C CNN
 F1 "ISO7330C" 330 450 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -500 50 H I C CIN
 F3 "" 0 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7330FC
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
@@ -3363,6 +4317,24 @@ F0 "U" -250 450 50 H V C CNN
 F1 "ISO7331C" 270 450 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -500 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7331FC
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
@@ -3414,6 +4386,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "ISO7340C" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7340FC
 $FPLIST
  SO*
@@ -3469,6 +4459,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "ISO7341C" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7341FC
 $FPLIST
  SO*
@@ -3525,6 +4533,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "ISO7342C" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS ISO7342FC
 $FPLIST
  SO*
@@ -3581,6 +4607,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "LTV-247" 0 200 50 H V L CNN
 F2 "Package_SO:SOP-16_4.4x10.4mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOP*4.4x10.4mm*P1.27mm*
 $ENDFPLIST
@@ -3624,6 +4668,24 @@ F0 "U" -300 200 50 H V L CNN
 F1 "LTV-352T" 0 200 50 H V L CNN
 F2 "Package_SO:SO-4_4.4x3.6mm_P2.54mm" -300 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*4.4x3.6mm*P2.54mm*
 $ENDFPLIST
@@ -3674,6 +4736,24 @@ F0 "U" -210 190 50 H V L CNN
 F1 "LTV-354T" 0 200 50 H V L CNN
 F2 "Package_SO:SO-4_4.4x3.6mm_P2.54mm" -200 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*4.4x3.6mm*P2.54mm*
 $ENDFPLIST
@@ -3711,6 +4791,24 @@ F0 "U" -210 190 50 H V L CNN
 F1 "LTV-355T" 0 200 50 H V L CNN
 F2 "Package_SO:SO-4_4.4x3.6mm_P2.54mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*4.4x3.6mm*P2.54mm*
 $ENDFPLIST
@@ -3750,6 +4848,24 @@ F0 "U" -210 190 50 H V L CNN
 F1 "LTV-356T" 0 200 50 H V L CNN
 F2 "Package_SO:SO-4_4.4x3.6mm_P2.54mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTV-357T LTV-358T
 $FPLIST
  SO*4.4x3.6mm*P2.54mm*
@@ -3782,6 +4898,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "LTV-814" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-4_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -3813,6 +4947,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "LTV-817" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-4_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 -100 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -3844,6 +4996,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "LTV-817M" 0 -200 50 H V C CNN
 F2 "Package_DIP:DIP-4_W10.16mm" 0 -300 50 H I C CNN
 F3 "" -400 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W10.16mm*
 $ENDFPLIST
@@ -3875,6 +5045,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "LTV-817S" 0 -200 50 H V C CNN
 F2 "Package_DIP:SMDIP-4_W9.53mm" 0 -300 50 H I C CNN
 F3 "" -350 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SMDIP*W9.53mm*
 $ENDFPLIST
@@ -3906,6 +5094,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "LTV-824" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-8_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -3947,6 +5153,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "LTV-827M" 0 -200 50 H V C CNN
 F2 "Package_DIP:DIP-8_W10.16mm" 0 -300 50 H I C CNN
 F3 "" -850 550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W10.16mm*
 $ENDFPLIST
@@ -3982,6 +5206,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "LTV-827S" 0 -200 50 H V C CNN
 F2 "Package_DIP:SMDIP-8_W9.53mm" 0 -300 50 H I C CNN
 F3 "" -800 550 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SMDIP*W9.53mm*
 $ENDFPLIST
@@ -4017,6 +5259,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "LTV-844" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-16_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4066,6 +5326,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "LTV-847M" 0 -200 50 H V C CNN
 F2 "Package_DIP:DIP-16_W10.16mm" 0 -300 50 H I C CNN
 F3 "" -450 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W10.16mm*
 $ENDFPLIST
@@ -4109,6 +5387,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "LTV-847S" 0 -200 50 H V C CNN
 F2 "Package_DIP:SMDIP-16_W9.53mm" 0 -300 50 H I C CNN
 F3 "" -600 450 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SMDIP*W9.53mm*
 $ENDFPLIST
@@ -4152,6 +5448,24 @@ F0 "U" 0 200 50 H V C CNN
 F1 "NSL-32" 0 -200 50 H V C CNN
 F2 "OptoDevice:Luna_NSL-32" 0 -300 50 H I C CNN
 F3 "" 50 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  Luna*NSL?32*
 $ENDFPLIST
@@ -4183,6 +5497,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "PC3H4" 0 200 50 H V L CNN
 F2 "Package_DIP:SMDIP-4_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS PC3H4A
 $FPLIST
  SMDIP*W7.62mm*
@@ -4221,6 +5553,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "PC817" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-4_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS EL817
 $FPLIST
  DIP*W7.62mm*
@@ -4253,6 +5603,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "PC827" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-8_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTV-827
 $FPLIST
  DIP*W7.62mm*
@@ -4289,6 +5657,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "PC837" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-12_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4328,6 +5714,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "PC847" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-16_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LTV-847
 $FPLIST
  DIP*W7.62mm*
@@ -4372,6 +5776,24 @@ F0 "U" -200 300 50 H V L CNN
 F1 "PS8802-1" 0 300 50 H V L CNN
 F2 "Package_SO:SSOP-8_3.95x5.21x3.27mm_P1.27mm" 0 -300 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*3.95x5.21x3.27mm?P1.27mm*
 $ENDFPLIST
@@ -4409,6 +5831,24 @@ F0 "U" -200 400 50 H V L CNN
 F1 "PS8802-2" 0 400 50 H V L CNN
 F2 "Package_SO:SSOP-8_3.95x5.21x3.27mm_P1.27mm" -200 -400 50 H I L CIN
 F3 "" -45 200 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*3.95x5.21x3.27mm?P1.27mm*
 $ENDFPLIST
@@ -4466,6 +5906,24 @@ F0 "U" -200 250 50 H V L CNN
 F1 "SFH617A-1X007T" -200 -250 50 H V L CNN
 F2 "Package_DIP:SMDIP-4_W9.53mm_Clearance8mm" 0 -350 50 H I C CIN
 F3 "" 0 -50 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH617A-3X007T SFH617A-2X017T SFH617A-3X017T
 $FPLIST
  SMDIP*W9.53mm*Clearance8mm*
@@ -4498,6 +5956,24 @@ F0 "U" -150 200 50 H V C CNN
 F1 "SFH617A-2X009T" 0 -200 50 H V C CNN
 F2 "Package_DIP:SMDIP-4_W7.62mm" 0 -300 50 H I C CNN
 F3 "" -350 300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH617A-2X019T
 $FPLIST
  SMDIP*W7.62mm*
@@ -4530,6 +6006,24 @@ F0 "U" -160 250 50 H V C CNN
 F1 "SFH620A-1" -210 -260 50 H V L CNN
 F2 "Package_DIP:DIP-4_W7.62mm" 0 -400 50 H I C CNN
 F3 "" -50 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH620A-2 SFH620A-3 SFH620A-1X001 SFH620A-2X001 SFH620A-3X001
 $FPLIST
  DIP*W7.62mm*
@@ -4564,6 +6058,24 @@ F0 "U" -160 250 50 H V C CNN
 F1 "SFH620A-1X006" -210 -260 50 H V L CNN
 F2 "Package_DIP:DIP-4_W10.16mm" 0 -400 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH620A-2X006 SFH620A-3X006 SFH620A-2X016 SFH620A-3X016
 $FPLIST
  DIP*W10.16mm*
@@ -4598,6 +6110,24 @@ F0 "U" -160 250 50 H V C CNN
 F1 "SFH620A-2X007T" -210 -260 50 H V L CNN
 F2 "Package_DIP:SMDIP-4_W9.53mm_Clearance8mm" 0 -400 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH6206-1T SFH6206-2T SFH6206-3T SFH620A-2X017T SFH6206-2X001T SFH6206-3X001T
 $FPLIST
  SMDIP*W9.53mm?Clearance8mm*
@@ -4632,6 +6162,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8640BA-B-IU" 0 550 50 H V C CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8640BB-B-IU Si8640EB-B-IU
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
@@ -4688,6 +6236,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8640BB-B-IS" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8640BD-B-IS Si8640ED-B-IS Si8640BD-B-IS2 Si8640ED-B-IS2
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
@@ -4744,6 +6310,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8640BB-B-IS1" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8640EC-B-IS1 Si8640BC-B-IS1
 $FPLIST
  SOIC*3.9x9.9mm*P1.27mm*
@@ -4800,6 +6384,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8641BA-B-IU" 0 550 50 H V C CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8641BB-B-IU Si8641EB-B-IU
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
@@ -4856,6 +6458,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8641BB-B-IS" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8641BD-B-IS Si8641ED-B-IS Si8641BD-B-IS2 Si8641ED-B-IS2
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
@@ -4912,6 +6532,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8641BB-B-IS1" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8641BC-B-IS1 Si8641EC-B-IS1
 $FPLIST
  SOIC*3.9x9.9mm*P1.27mm*
@@ -4968,6 +6606,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8642BA-B-IU" 0 550 50 H V C CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8642BB-B-IU Si8642EA-B-IU Si8642EB-B-IU
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
@@ -5024,6 +6680,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8642BB-B-IS" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8642BD-B-IS Si8642ED-B-IS Si8642BD-B-IS2 Si8642ED-B-IS2
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
@@ -5080,6 +6754,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8642BB-B-IS1" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8642BC-B-IS1 Si8642EC-B-IS1
 $FPLIST
  SOIC*3.9x9.9mm*P1.27mm*
@@ -5136,6 +6828,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8645BA-B-IU" 0 550 50 H V C CNN
 F2 "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8645BB-B-IU
 $FPLIST
  QSOP*3.9x4.9mm*P0.635mm*
@@ -5192,6 +6902,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8645BB-B-IS" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8645BD-B-IS
 $FPLIST
  SOIC*7.5x10.3mm*P1.27mm*
@@ -5248,6 +6976,24 @@ F0 "U" 0 625 50 H V C CNN
 F1 "Si8645BB-B-IS1" 0 550 50 H V C CNN
 F2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" 0 -550 50 H I C CIN
 F3 "" 0 400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS Si8645BC-B-IS1
 $FPLIST
  SOIC*3.9x9.9mm*P1.27mm*
@@ -5304,6 +7050,24 @@ F0 "U" 0 200 50 H V C CNN
 F1 "TCMT1100" 0 -200 50 H V C CNN
 F2 "Package_SO:SOP-4_4.4x2.6mm_P1.27mm" 0 -300 50 H I C CNN
 F3 "" 0 -50 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS TCMT1101 TCMT1102 TCMT1103 TCMT1104 TCMT1105 TCMT1106 TCMT1107 TCMT1108 TCMT1109
 $FPLIST
  SOP*4.4x2.6mm*P1.27mm*
@@ -5336,6 +7100,24 @@ F0 "U" -190 200 50 H V L CNN
 F1 "TLP127" -205 -200 50 H V L CNN
 F2 "Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm" 0 -300 50 H I C CIN
 F3 "" -70 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MFSOP6*4.4x3.6mm*P1.27mm*
 $ENDFPLIST
@@ -5386,6 +7168,24 @@ F0 "U" -200 190 50 H V L CNN
 F1 "TLP130" -200 -200 50 H V L CNN
 F2 "Package_SO:MFSOP6-5_4.4x3.6mm_P1.27mm" 0 -300 50 H I C CIN
 F3 "" 10 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MFSOP6*4.4x3.6mm*P1.27mm*
 $ENDFPLIST
@@ -5424,6 +7224,24 @@ F0 "U" -205 190 50 H V L CNN
 F1 "TLP131" -200 -200 50 H V L CNN
 F2 "Package_SO:MFSOP6-5_4.4x3.6mm_P1.27mm" 0 -300 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MFSOP6*4.4x3.6mm*P1.27mm*
 $ENDFPLIST
@@ -5456,6 +7274,24 @@ F0 "U" -200 195 50 H V L CNN
 F1 "TLP137" -200 -200 50 H V L CNN
 F2 "Package_SO:MFSOP6-5_4.4x3.6mm_P1.27mm" 0 -300 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  MFSOP6*4.4x3.6mm*P1.27mm*
 $ENDFPLIST
@@ -5488,6 +7324,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP184" -200 -200 50 H V L CNN
 F2 "Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm" 0 -300 50 H I C CIN
 F3 "" 50 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS TLP184xSE
 $FPLIST
  MFSOP6*4.4x3.6mm*P1.27mm*
@@ -5522,6 +7376,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP185" -200 -200 50 H V L CNN
 F2 "Package_SO:SOIC-4_4.55x3.7mm_P2.54mm" 0 -300 50 H I C CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS TLP185xSE
 $FPLIST
  SOIC*4.55x3.7mm*P2.54mm*
@@ -5551,6 +7423,24 @@ F0 "U" -294 352 50 H V L CNN
 F1 "TLP2703" 38 354 50 H V L CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" -850 -500 50 H I L CIN
 F3 "" 100 -100 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5604,6 +7494,24 @@ F0 "U" -280 350 50 H V L CNN
 F1 "TLP2745" 40 360 50 H V L CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" -700 -500 50 H I L CIN
 F3 "" -108 15 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5648,6 +7556,24 @@ F0 "U" -280 350 50 H V L CNN
 F1 "TLP2748" 40 360 50 H V L CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" -700 -500 50 H I L CIN
 F3 "" -108 25 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5694,6 +7620,24 @@ F0 "U" -280 350 50 H V L CNN
 F1 "TLP2761" 40 360 50 H V L CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" -700 -500 50 H I L CIN
 F3 "" -108 25 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5741,6 +7685,24 @@ F0 "U" -280 350 50 H V L CNN
 F1 "TLP2767" 40 360 50 H V L CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" -700 -500 50 H I L CIN
 F3 "" -108 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5787,6 +7749,24 @@ F0 "U" -280 350 50 H V L CNN
 F1 "TLP2768A" 40 360 50 H V L CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" -700 -500 50 H I L CIN
 F3 "" -148 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5834,6 +7814,24 @@ F0 "U" -250 350 50 H V C CNN
 F1 "TLP2770" 200 350 50 H V C CNN
 F2 "Package_SO:SO-6L_10x3.84mm_P1.27mm" 0 -500 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SO*6L*10x3.84mm*P1.27mm*
 $ENDFPLIST
@@ -5885,6 +7883,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP290" 0 200 50 H V L CNN
 F2 "Package_SO:SOP-4_4.4x2.6mm_P1.27mm" -850 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS TCMT1600 ACPL-214-500E
 $FPLIST
  SOP*4*4.4x2.6mm*P1.27mm*
@@ -5923,6 +7939,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP290-4" 0 200 50 H V L CNN
 F2 "Package_SO:SOP-16_4.55x10.3mm_P1.27mm" -850 -200 50 H I L CIN
 F3 "" 25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS TCMT4600 TCMT4606
 $FPLIST
  SOP*4.55x10.3mm*P1.27mm*
@@ -5973,6 +8007,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP291" 0 200 50 H V L CNN
 F2 "Package_SO:SOIC-4_4.55x2.6mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*4.55x2.6mm*P1.27mm*
 $ENDFPLIST
@@ -6004,6 +8056,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP291-4" 0 200 50 H V L CNN
 F2 "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*4.55x10.3mm*P1.27mm*
 $ENDFPLIST
@@ -6047,6 +8117,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP3021" 0 200 50 H V L CNN
 F2 "Package_DIP:Toshiba_11-7A9" -200 -200 50 H I L CIN
 F3 "" -25 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS TLP3022 TLP3023
 $FPLIST
  Toshiba*11?7A9*
@@ -6082,6 +8170,24 @@ F0 "U" -300 200 50 H V L CNN
 F1 "TLP627" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-4_W7.62mm" -300 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -6130,6 +8236,24 @@ F0 "U" -300 200 50 H V L CNN
 F1 "TLP627-2" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-8_W7.62mm" -300 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -6182,6 +8306,24 @@ F0 "U" -300 200 50 H V L CNN
 F1 "TLP627-4" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-16_W7.62mm" -300 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -6242,6 +8384,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP785" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-4_W7.62mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH617A-1 SFH617A-2 SFH617A-3 SFH617A-4 SFH617A-1X001 SFH617A-2X001 SFH617A-3X001 SFH617A-4X001
 $FPLIST
  DIP*W7.62mm*
@@ -6274,6 +8434,24 @@ F0 "U" -200 200 50 H V L CNN
 F1 "TLP785F" 0 200 50 H V L CNN
 F2 "Package_DIP:DIP-4_W10.16mm" -200 -200 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SFH617A-1X006 SFH617A-2X006 SFH617A-3X006 SFH617A-4X006 SFH617A-1X016 SFH617A-2X016 SFH617A-3X016 SFH617A-4X016
 $FPLIST
  DIP*W10.16mm*
@@ -6306,6 +8484,24 @@ F0 "U" 0 300 50 H V C CNN
 F1 "VO615A" 0 200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS VO615A-1 VO615A-2 VO615A-3 VO615A-4 VO615A-5 VO615A-6 VO615A-7 VO615A-8 VO615A-9
 $FPLIST
  DIP*W7.62mm*
@@ -6341,6 +8537,24 @@ F0 "U" 0 200 50 H V C CNN
 F1 "VTL5C" 0 -200 50 H V C CNN
 F2 "OptoDevice:PerkinElmer_VTL5C" 0 0 50 H I C CNN
 F3 "" 50 -250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  PerkinElmer*VTL5C*
 $ENDFPLIST
@@ -6372,6 +8586,24 @@ F0 "U" 0 200 50 H V C CNN
 F1 "VTL5Cx2" 0 -200 50 H V C CNN
 F2 "OptoDevice:PerkinElmer_VTL5Cx2" 0 0 50 H I C CNN
 F3 "" 50 -250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Isolation Voltage"
+F9 "?" 0 0 50 H I C CNN "Input Type"
+F10 "?" 0 0 50 H I C CNN "Number of Channels"
+F11 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F12 "?" 0 0 50 H I C CNN "Current Transfer Ratio"
+F13 "?" 0 0 50 H I C CNN "Forward Voltage"
+F14 "?" 0 0 50 H I C CNN "Max Forward Current"
+F15 "?" 0 0 50 H I C CNN "Max Saturation Voltage"
+F16 "?" 0 0 50 H I C CNN "Turn On Time"
+F17 "?" 0 0 50 H I C CNN "Turn Off Time"
+F18 "?" 0 0 50 H I C CNN "Rise TIme"
+F19 "?" 0 0 50 H I C CNN "Fall Time"
+F20 "?" 0 0 50 H I C CNN "Output Type"
+F21 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  PerkinElmer*VTL5C*
 $ENDFPLIST
