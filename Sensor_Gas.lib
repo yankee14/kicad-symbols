@@ -8,6 +8,20 @@ F0 "U" -450 350 50 H V C CNN
 F1 "004-0-0013" 300 350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F6 "?" 0 0 50 H I C CNN "MPN 1"
+F7 "?" 0 0 50 H I C CNN "Type"
+F8 "?" 0 0 50 H I C CNN "Accuracy"
+F9 "?" 0 0 50 H I C CNN "Supply Voltage"
+F10 "?" 0 0 50 H I C CNN "Supply Current"
+F11 "?" 0 0 50 H I C CNN "Operating Range"
+F12 "?" 0 0 50 H I C CNN "Operating Temperature"
+F13 "?" 0 0 50 H I C CNN "Operating Humidity"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Sampling Rate"
+F16 "?" 0 0 50 H I C CNN "Mean Time To Failure"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 004-0-0010 004-0-0075 004-0-0050 004-0-0071 004-0-0053
 $FPLIST
  Senseair*S8*
@@ -33,6 +47,20 @@ F0 "U" -350 550 50 H V C CNN
 F1 "CCS811" -250 450 50 H V C CNN
 F2 "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm" 0 -600 50 H I C CNN
 F3 "" 0 -200 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F6 "?" 0 0 50 H I C CNN "MPN 1"
+F7 "?" 0 0 50 H I C CNN "Type"
+F8 "?" 0 0 50 H I C CNN "Accuracy"
+F9 "?" 0 0 50 H I C CNN "Supply Voltage"
+F10 "?" 0 0 50 H I C CNN "Supply Current"
+F11 "?" 0 0 50 H I C CNN "Operating Range"
+F12 "?" 0 0 50 H I C CNN "Operating Temperature"
+F13 "?" 0 0 50 H I C CNN "Operating Humidity"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Sampling Rate"
+F16 "?" 0 0 50 H I C CNN "Mean Time To Failure"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  AMS?LGA*EP*2.7x4mm*P0.6mm*
 $ENDFPLIST
@@ -59,6 +87,20 @@ F0 "U" -250 350 50 H V C CNN
 F1 "MQ-6" 150 350 50 H V C CNN
 F2 "Sensor:MQ-6" 50 -450 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Status"
+F5 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F6 "?" 0 0 50 H I C CNN "MPN 1"
+F7 "?" 0 0 50 H I C CNN "Type"
+F8 "?" 0 0 50 H I C CNN "Accuracy"
+F9 "?" 0 0 50 H I C CNN "Supply Voltage"
+F10 "?" 0 0 50 H I C CNN "Supply Current"
+F11 "?" 0 0 50 H I C CNN "Operating Range"
+F12 "?" 0 0 50 H I C CNN "Operating Temperature"
+F13 "?" 0 0 50 H I C CNN "Operating Humidity"
+F14 "?" 0 0 50 H I C CNN "Output Type"
+F15 "?" 0 0 50 H I C CNN "Sampling Rate"
+F16 "?" 0 0 50 H I C CNN "Mean Time To Failure"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  *MQ*6*
 $ENDFPLIST
