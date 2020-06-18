@@ -8,6 +8,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74469" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?24*
 $ENDFPLIST
@@ -47,6 +62,21 @@ F0 "U" -300 1600 50 H V C CNN
 F1 "74CBTLV16212" 400 1600 50 H V C CNN
 F2 "" 0 800 50 H I C CNN
 F3 "" 0 800 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*
  TSSOP*
@@ -121,6 +151,21 @@ F0 "U" 700 50 50 H V C CNN
 F1 "74CBTLV3257" 600 -50 50 H V C CNN
 F2 "" -50 0 50 H I C CNN
 F3 "" -50 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*3.9x4.9mm*P0.635mm*
  TSSOP*4.4x5mm*P0.65mm*
@@ -187,6 +232,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74CBTLV3861" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?24*
 $ENDFPLIST
@@ -227,6 +287,21 @@ F0 "U" -300 550 50 H V L BNN
 F1 "74HC137" 100 -450 50 H V L TNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT137
 $FPLIST
  DIP*W7.62mm*
@@ -261,6 +336,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74HC14" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS14
 $FPLIST
  DIP*W7.62mm*
@@ -309,6 +399,21 @@ F0 "U" 75 -550 50 H V L CNN
 F1 "74HC164" 75 -650 50 H V L CNN
 F2 "" 900 -300 50 H I C CNN
 F3 "" 900 -300 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT164
 $FPLIST
  SOIC*3.9x8.7*P1.27mm*
@@ -341,6 +446,21 @@ F0 "U" -300 550 50 H V L BNN
 F1 "74HC237" 100 -450 50 H V L TNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT237
 $FPLIST
  DIP*W7.62mm*
@@ -375,6 +495,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74HC240" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT240
 $FPLIST
  DIP*W7.62mm*
@@ -416,6 +551,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74HC244" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT244 74AHC244 74AHCT244
 $FPLIST
  TSSOP*4.4x6.5mm*P0.65mm*
@@ -454,6 +604,21 @@ F0 "U" -250 450 50 H V C CNN
 F1 "74HC4024" 250 450 50 H V C CNN
 F2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" 0 50 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x8.7mm*P1.27mm*
 $ENDFPLIST
@@ -483,6 +648,21 @@ F0 "U" -200 450 50 H V C CNN
 F1 "74HC4051" -300 -550 50 H V C CNN
 F2 "" 0 -400 50 H I C CNN
 F3 "" 0 -400 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT4051
 $FPLIST
  DIP*W7.62mm*
@@ -518,6 +698,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74HC590" -300 -550 50 H V C CNN
 F2 "" 0 50 50 H I C CNN
 F3 "" 0 50 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS590 74HC590A
 $FPLIST
  DIP*W7.62mm*
@@ -554,6 +749,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74HC595" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS595 74HCT595 74AHC595 74AHCT595
 $FPLIST
  DIP*W7.62mm*
@@ -590,6 +800,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74HC596" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS596 74HCT596
 $FPLIST
  DIP*W7.62mm*
@@ -626,6 +851,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74HC7014" 0 -50 50 H V C CNN
 F2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*3.9x8.7mm*P1.27mm*
 $ENDFPLIST
@@ -673,6 +913,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LCX07" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS SN74LS07 74LS07 SN74LS07N
 $FPLIST
  SOIC*3.9x8.7mm*P1.27mm*
@@ -711,6 +966,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS00" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS37 7400 74HCT00 74HC00
 $FPLIST
  DIP*W7.62mm*
@@ -786,6 +1056,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS01" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -859,6 +1144,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS02" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC02 74HCT02 7402 74LS28
 $FPLIST
  SO14*
@@ -934,6 +1234,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS03" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm**
 $ENDFPLIST
@@ -1007,6 +1322,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS04" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC04 74HCT04 74AHC04 74AHCT04
 $FPLIST
  DIP*W7.62mm*
@@ -1045,6 +1375,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS05" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS06 74LS06N
 $FPLIST
  DIP*W7.62mm*
@@ -1081,6 +1426,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS08" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1154,6 +1514,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS09" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1227,6 +1602,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS10" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1292,6 +1682,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS107" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1323,6 +1728,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS109" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1356,6 +1776,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS11" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1421,6 +1856,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS112" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -1454,6 +1904,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS113" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1485,6 +1950,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS114" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1516,6 +1996,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS12" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1581,6 +2076,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS121" -300 -450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1606,6 +2116,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS122" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1633,6 +2158,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS123" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74AHCT123 74HCT123 74HC123
 $FPLIST
  DIP?16*
@@ -1667,6 +2207,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS125" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LVC125
 $FPLIST
  DIP*W7.62mm*
@@ -1701,6 +2256,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS126" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1734,6 +2304,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS13" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1787,6 +2372,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS132" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1876,6 +2476,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS133" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -1932,6 +2547,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS136" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -1997,6 +2627,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS137" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2028,6 +2673,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS138" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2059,6 +2719,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS139" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2092,6 +2767,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS145" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2123,6 +2813,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS147" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2153,6 +2858,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS148" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2184,6 +2904,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS15" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -2249,6 +2984,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS151" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2280,6 +3030,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS153" -300 -950 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2311,6 +3076,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS154" -300 -950 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?24*
 $ENDFPLIST
@@ -2350,6 +3130,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS155" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS156
 $FPLIST
  DIP?16*
@@ -2382,6 +3177,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS157" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2413,6 +3223,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS158" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2444,6 +3269,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS161" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS160 74LS162 74LS163
 $FPLIST
  DIP?16*
@@ -2476,6 +3316,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS165" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC165
 $FPLIST
  DIP?16*
@@ -2511,6 +3366,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS166" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2542,6 +3412,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS168" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS169
 $FPLIST
  DIP?16*
@@ -2574,6 +3459,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS170" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS670
 $FPLIST
  DIP?16*
@@ -2606,6 +3506,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS173" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2637,6 +3552,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS174" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2668,6 +3598,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS175" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2699,6 +3644,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS181" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?24*
 $ENDFPLIST
@@ -2750,6 +3710,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS182" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2781,6 +3756,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS190" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS191
 $FPLIST
  DIP?16*
@@ -2813,6 +3803,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS192" 200 550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS193
 $FPLIST
  SOIC*3.9x9.9mm*P1.27mm*
@@ -2846,6 +3851,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS194" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2877,6 +3897,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS195" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -2908,6 +3943,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS196" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS197
 $FPLIST
  DIP*W7.62mm*
@@ -2938,6 +3988,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS20" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS22 74LS40
 $FPLIST
  DIP?12*
@@ -2992,6 +4057,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS21" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?12*
 $ENDFPLIST
@@ -3045,6 +4125,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS221" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3078,6 +4173,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS240" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -3115,6 +4225,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS240_Split" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  SOIC*7.5x12.8mm*P1.27mm*
@@ -3176,6 +4301,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS241" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -3213,6 +4353,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS241_Split" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  SOIC*7.5x12.8mm*P1.27mm*
@@ -3274,6 +4429,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS242" -300 -450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?12*
 $ENDFPLIST
@@ -3301,6 +4471,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS243" -300 -450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?12*
 $ENDFPLIST
@@ -3328,6 +4513,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS244" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -3365,6 +4565,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS244_Split" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
  SOIC*7.5x12.8mm*P1.27mm*
@@ -3426,6 +4641,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS245" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC245
 $FPLIST
  DIP?20*
@@ -3464,6 +4694,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS247" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS246
 $FPLIST
  DIP?16*
@@ -3496,6 +4741,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS248" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS249
 $FPLIST
  DIP?16*
@@ -3528,6 +4788,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS251" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3559,6 +4834,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS253" -300 -950 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3590,6 +4880,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS256" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3621,6 +4926,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS257" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3652,6 +4972,21 @@ F0 "U" -300 750 50 H V C CNN
 F1 "74LS258" -300 -850 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3683,6 +5018,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS259" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3714,6 +5064,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS26" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS38
 $FPLIST
  DIP*W7.62mm*
@@ -3788,6 +5153,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS27" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -3853,6 +5233,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS273" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC273 74HCT273 74AHC273 74AHCT273
 $FPLIST
  DIP?20*
@@ -3891,6 +5286,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS280" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -3920,6 +5330,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS283" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -3951,6 +5376,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS290" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS293
 $FPLIST
  DIP?12*
@@ -3979,6 +5419,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS295" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4008,6 +5463,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS298" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4039,6 +5509,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS299" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4074,6 +5559,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS30" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4120,6 +5620,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS32" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?14*
 $ENDFPLIST
@@ -4193,6 +5708,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS322" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4228,6 +5758,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS323" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4263,6 +5808,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS33" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4336,6 +5896,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS348" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4367,6 +5942,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS352" -300 -950 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4398,6 +5988,21 @@ F0 "U" -300 850 50 H V C CNN
 F1 "74LS353" -300 -950 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4429,6 +6034,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS365" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4460,6 +6080,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS366" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4491,6 +6126,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS367" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4522,6 +6172,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS368" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4553,6 +6218,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS373" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4588,6 +6268,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS374" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC374 74HCT374 74AHC374 74AHCT374
 $FPLIST
  DIP?20*
@@ -4626,6 +6321,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS375" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4657,6 +6367,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS377" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4692,6 +6417,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS378" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4723,6 +6463,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS379" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4754,6 +6509,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS385" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4789,6 +6559,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS386" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4854,6 +6639,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS390" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4887,6 +6687,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS393" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -4918,6 +6733,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS395" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -4949,6 +6779,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS398" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -4984,6 +6829,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS399" -300 -750 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5015,6 +6875,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS42" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5046,6 +6921,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS47" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74LS46
 $FPLIST
  DIP?16*
@@ -5078,6 +6968,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS48" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5109,6 +7014,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS49" -300 -450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5138,6 +7058,21 @@ F0 "U" -300 400 50 H V C CNN
 F1 "74LS51" -300 -400 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5187,6 +7122,21 @@ F0 "U" -300 400 50 H V C CNN
 F1 "74LS54" -300 -500 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5232,6 +7182,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS540" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -5271,6 +7236,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS541" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT541
 $FPLIST
  DIP?20*
@@ -5310,6 +7290,21 @@ F0 "U" -300 400 50 H V C CNN
 F1 "74LS55" -300 -500 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5347,6 +7342,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS573" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -5382,6 +7392,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS574" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HCT574
 $FPLIST
  DIP?20*
@@ -5418,6 +7443,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS629" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5451,6 +7491,21 @@ F0 "U" -300 1050 50 H V C CNN
 F1 "74LS688" -300 -1050 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC688 74HCT688
 $FPLIST
  DIP?20*
@@ -5490,6 +7545,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS73" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5521,6 +7591,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS74" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC74
 $FPLIST
  DIP*W7.62mm*
@@ -5553,6 +7638,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS75" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5584,6 +7684,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS76" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5617,6 +7732,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS77" -300 -450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?12*
 $ENDFPLIST
@@ -5644,6 +7774,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS78" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5677,6 +7822,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS83" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5708,6 +7868,21 @@ F0 "U" -300 550 50 H V C CNN
 F1 "74LS85" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?16*
 $ENDFPLIST
@@ -5739,6 +7914,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LS86" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS 74HC86
 $FPLIST
  DIP*W7.62mm*
@@ -5805,6 +7995,21 @@ F0 "U" -300 450 50 H V C CNN
 F1 "74LS90" -300 -550 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?12*
 $ENDFPLIST
@@ -5832,6 +8037,21 @@ F0 "U" -300 250 50 H V C CNN
 F1 "74LS91" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5854,6 +8074,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS92" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5879,6 +8114,21 @@ F0 "U" -300 350 50 H V C CNN
 F1 "74LS93" -300 -350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5904,6 +8154,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "74LS95" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5933,6 +8198,21 @@ F0 "U" 0 50 50 H V C CNN
 F1 "74LV14" 0 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP*W7.62mm*
 $ENDFPLIST
@@ -5968,6 +8248,21 @@ F0 "U" -250 650 50 H V C CNN
 F1 "74LV8154" 250 650 50 H V C CNN
 F2 "" -250 650 50 H I C CNN
 F3 "" -250 650 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*4.4x6.5mm*P0.65mm*
  DIP*W7.62mm*
@@ -6004,6 +8299,21 @@ F0 "U" -350 900 50 H V L CNN
 F1 "CD74HC4067M" 50 900 50 H V L CNN
 F2 "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm" 900 -1000 50 H I C CIN
 F3 "" -350 850 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SOIC*W*7.5x15.4mm*P1.27mm*
 $ENDFPLIST
@@ -6043,6 +8353,21 @@ F0 "U" -350 900 50 H V L CNN
 F1 "CD74HC4067SM" 50 900 50 H V L CNN
 F2 "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm" 1050 -1000 50 H I C CIN
 F3 "" -350 850 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  SSOP*5.3x8.2mm*P0.65mm*
 $ENDFPLIST
@@ -6082,6 +8407,21 @@ F0 "U" -300 650 50 H V C CNN
 F1 "MM74C923" -300 -650 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  DIP?20*
 $ENDFPLIST
@@ -6117,6 +8457,21 @@ F0 "U" -250 1350 50 H V C CNN
 F1 "SN74AVC16827DGGR" 400 1350 50 H V C CNN
 F2 "Package_SO:TSSOP-56_6.1x14mm_P0.5mm" -900 -1350 50 H I C CNN
 F3 "" -1100 -1500 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Logic Type"
+F9 "?" 0 0 50 H I C CNN "Output Type"
+F10 "?" 0 0 50 H I C CNN "Function"
+F11 "?" 0 0 50 H I C CNN "Number of Elements"
+F12 "?" 0 0 50 H I C CNN "Bits Per Element"
+F13 "?" 0 0 50 H I C CNN "Supply Voltage"
+F14 "?" 0 0 50 H I C CNN "Supply Current"
+F15 "?" 0 0 50 H I C CNN "Propagation Delay"
+F16 "?" 0 0 50 H I C CNN "Max Frequency"
+F17 "?" 0 0 50 H I C CNN "Input Bias Current"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TSSOP*6.1x14mm*P0.5mm*
 $ENDFPLIST
