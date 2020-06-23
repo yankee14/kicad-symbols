@@ -654,6 +654,21 @@ F0 "U" -250 250 50 H V C CNN
 F1 "LT1461Axx8-2.5" 350 250 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" -350 0 50 H I C CNN
 F3 "" -350 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Output Type"
+F9 "?" 0 0 50 H I C CNN "Reference Type"
+F10 "?" 0 0 50 H I C CNN "Max Output Voltage"
+F11 "?" 0 0 50 H I C CNN "Max Output Current"
+F12 "?" 0 0 50 H I C CNN "Reference Voltage"
+F13 "?" 0 0 50 H I C CNN "Min Cathode Current"
+F14 "?" 0 0 50 H I C CNN "Tolerance"
+F15 "?" 0 0 50 H I C CNN "Unity Gain Frequency"
+F16 "?" 0 0 50 H I C CNN "Low Frequency Noise"
+F17 "?" 0 0 50 H I C CNN "High Frequency Noise"
+F18 "?" 0 0 50 H I C CNN "RoHS"
 ALIAS LT1461Axx8-3 LT1461Axx8-3.3 LT1461Axx8-4 LT1461Axx8-5 LT1461Bxx8-2.5 LT1461Bxx8-3 LT1461Bxx8-3.3 LT1461Bxx8-4 LT1461Bxx8-5 LT1461Cxx8-2.5 LT1461Cxx8-3 LT1461Cxx8-3.3 LT1461Cxx8-4 LT1461Cxx8-5 LT1461Dxx8-2.5 LT1461Dxx8-3 LT1461Dxx8-3.3 LT1461Dxx8-4 LT1461Dxx8-5
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
