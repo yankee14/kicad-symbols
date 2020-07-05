@@ -3215,6 +3215,22 @@ F0 "D" 0 100 50 H V C CNN
 F1 "LED" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Color"
+F9 "?" 0 0 50 H I C CNN "Lens Color"
+F10 "?" 0 0 50 H I C CNN "Lens Transparency"
+F11 "?" 0 0 50 H I C CNN "Millicandela Rating"
+F12 "?" 0 0 50 H I C CNN "Lens Style"
+F13 "?" 0 0 50 H I C CNN "Lens Size"
+F14 "?" 0 0 50 H I C CNN "Forward Voltage"
+F15 "?" 0 0 50 H I C CNN "Test Current"
+F16 "?" 0 0 50 H I C CNN "Viewing Angle"
+F17 "?" 0 0 50 H I C CNN "Dominant Wavelength"
+F18 "?" 0 0 50 H I C CNN "Peak Wavelength"
+F19 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LED*
  LED_SMD:*
@@ -4286,6 +4302,22 @@ F0 "D" -50 125 50 H V L CNN
 F1 "LED_Small" -175 -100 50 H V L CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Color"
+F9 "?" 0 0 50 H I C CNN "Lens Color"
+F10 "?" 0 0 50 H I C CNN "Lens Transparency"
+F11 "?" 0 0 50 H I C CNN "Millicandela Rating"
+F12 "?" 0 0 50 H I C CNN "Lens Style"
+F13 "?" 0 0 50 H I C CNN "Lens Size"
+F14 "?" 0 0 50 H I C CNN "Forward Voltage"
+F15 "?" 0 0 50 H I C CNN "Test Current"
+F16 "?" 0 0 50 H I C CNN "Viewing Angle"
+F17 "?" 0 0 50 H I C CNN "Dominant Wavelength"
+F18 "?" 0 0 50 H I C CNN "Peak Wavelength"
+F19 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  LED*
  LED_SMD:*
