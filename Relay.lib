@@ -1499,7 +1499,7 @@ ENDDEF
 DEF FINDER-32.21-x000 K 0 20 Y Y 1 F N
 F0 "K" 450 150 50 H V L CNN
 F1 "FINDER-32.21-x000" 450 50 50 H V L CNN
-F2 "Relay_THT:Relay_SPST_Finder_32.21-x300" 1270 -30 50 H I C CNN
+F2 "Relay_THT:Relay_SPDT_Finder_32.21-x000" 1270 -30 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "?" 0 0 50 H I C CNN "Placement"
 F5 "?" 0 0 50 H I C CNN "Status 1"
@@ -1518,7 +1518,7 @@ F17 "?" 0 0 50 H I C CNN "Release Time"
 F18 "?" 0 0 50 H I C CNN "Termination Style"
 F19 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
- Relay*SPST*Finder*32.21*x300*
+ Relay*SPDT*Finder*32.21*x000*
 $ENDFPLIST
 DRAW
 S -400 200 400 -200 0 1 10 f
