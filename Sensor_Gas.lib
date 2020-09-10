@@ -8,7 +8,7 @@ F0 "U" -450 350 50 H V C CNN
 F1 "004-0-0013" 300 350 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Status"
+F4 "?" 0 0 50 H I C CNN "Status 1"
 F5 "?" 0 0 50 H I C CNN "Manufacturer 1"
 F6 "?" 0 0 50 H I C CNN "MPN 1"
 F7 "?" 0 0 50 H I C CNN "Type"
@@ -47,7 +47,7 @@ F0 "U" -350 550 50 H V C CNN
 F1 "CCS811" -250 450 50 H V C CNN
 F2 "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm" 0 -600 50 H I C CNN
 F3 "" 0 -200 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Status"
+F4 "?" 0 0 50 H I C CNN "Status 1"
 F5 "?" 0 0 50 H I C CNN "Manufacturer 1"
 F6 "?" 0 0 50 H I C CNN "MPN 1"
 F7 "?" 0 0 50 H I C CNN "Type"
@@ -87,7 +87,7 @@ F0 "U" -250 350 50 H V C CNN
 F1 "MQ-6" 150 350 50 H V C CNN
 F2 "Sensor:MQ-6" 50 -450 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Status"
+F4 "?" 0 0 50 H I C CNN "Status 1"
 F5 "?" 0 0 50 H I C CNN "Manufacturer 1"
 F6 "?" 0 0 50 H I C CNN "MPN 1"
 F7 "?" 0 0 50 H I C CNN "Type"
