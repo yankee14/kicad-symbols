@@ -4308,6 +4308,12 @@ K 1.9A 1.3MHz Step-Up DC/DC
 F https://www.semtech.com/uploads/documents/sc4503.pdf
 $ENDCMP
 #
+$CMP SPBW06G-05
+D 5V, 1.2A Step-Down Voltage Regulator, 580kHz, SIP-7-8
+K DC DC-DC DC/DC DCDC converter buck step-down step down regulator switcher switching
+F https://www.meanwell.com/webapp/product/search.aspx?prod=SPBW06
+$ENDCMP
+#
 $CMP ST1S10PHR
 D 3A monolithic synchronous step-down regulator, Adjustable Output Voltage, 2.5-18V Input Voltage, 900kHz, PowerSO-8
 K DC/DC Buck Conwerter 3A Low Voltage Input
