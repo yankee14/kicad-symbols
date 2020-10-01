@@ -414,6 +414,11 @@ K connector 3-pin PD-30 power DIN
 F http://www.cui.com/product/resource/pd-30.pdf
 $ENDCMP
 #
+$CMP CUI_PD-30S
+D 3 pin connector, PD-30S
+K connector 3-pin PD-30S power DIN
+F http://www.cui.com/product/resource/pd-30.pdf
+$ENDCMP
 $CMP CoaxialSwitch_Testpoint
 D Subminiature Coaxial Switch testpoint
 K  Coaxial Switch RF testpoint
@@ -1666,6 +1671,12 @@ $CMP RJ45_Amphenol_RJMG1BD3B8K1ANR
 D 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
 K RJ45 Magjack
 F https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+$ENDCMP
+#
+$CMP RJ45_Bel_SI-60062-F
+D 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+K RJ45 Magjack
+F https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf
 $ENDCMP
 #
 $CMP RJ45_LED
