@@ -239,6 +239,25 @@ X 3 3 200 100 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# C_Feedthrough_0
+#
+DEF C_Feedthrough_0 C 0 10 Y N 1 F N
+F0 "C" 0 300 50 H V C CNN
+F1 "C_Feedthrough_0" 0 225 50 H V C CNN
+F2 "" 0 0 50 V I C CNN
+F3 "" 0 0 50 V I C CNN
+ALIAS EMI_Filter_C
+DRAW
+S -65 60 60 80 0 1 0 F
+S 60 120 -65 140 0 1 0 F
+P 2 0 1 0 -100 100 100 100 N
+P 2 0 1 0 0 0 0 70 N
+X 1 1 -200 100 100 R 50 50 1 1 P
+X 2 2 0 -100 100 U 50 50 1 1 P
+X 3 3 200 100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # C_Polarized
 #
 DEF C_Polarized C 0 10 N Y 1 F N
@@ -355,6 +374,36 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# C_Small_0
+#
+DEF C_Small_0 C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "C_Small_0" 10 -80 50 H V L CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Max Voltage"
+F9 "?" 0 0 50 H I C CNN "Tolerance"
+F10 "?" 0 0 50 H I C CNN "Temperature Coefficient"
+F11 "?" 0 0 50 H I C CNN "Type"
+F12 "?" 0 0 50 H I C CNN "Ripple Current Low Frequency"
+F13 "?" 0 0 50 H I C CNN "Ripple Current High Frequency"
+F14 "?" 0 0 50 H I C CNN "Safety Rating"
+F15 "?" 0 0 50 H I C CNN "RoHS"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # C_Trim
 #
 DEF C_Trim C 0 10 N N 1 F N
@@ -410,55 +459,6 @@ P 2 0 1 12 -60 -20 60 -20 N
 P 2 0 1 12 -60 20 60 20 N
 P 2 0 1 7 30 60 -30 -60 N
 P 2 0 1 7 50 50 15 70 N
-X ~ 1 0 100 80 D 50 50 1 1 P
-X ~ 2 0 -100 80 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# C_Feedthrough
-#
-DEF C_Feedthrough C 0 10 Y N 1 F N
-F0 "C" 0 300 50 H V C CNN
-F1 "C_Feedthrough" 0 225 50 H V C CNN
-F2 "" 0 0 50 V I C CNN
-F3 "" 0 0 50 V I C CNN
-ALIAS EMI_Filter_C
-DRAW
-S -65 60 60 80 0 1 0 F
-S 60 120 -65 140 0 1 0 F
-P 2 0 1 0 -100 100 100 100 N
-P 2 0 1 0 0 0 0 70 N
-X 1 1 -200 100 100 R 50 50 1 1 P
-X 2 2 0 -100 100 U 50 50 1 1 P
-X 3 3 200 100 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# C_Small
-#
-DEF C_Small C 0 10 N N 1 F N
-F0 "C" 10 70 50 H V L CNN
-F1 "C_Small" 10 -80 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Placement"
-F5 "?" 0 0 50 H I C CNN "Status 1"
-F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
-F7 "?" 0 0 50 H I C CNN "MPN 1"
-F8 "?" 0 0 50 H I C CNN "Max Voltage"
-F9 "?" 0 0 50 H I C CNN "Tolerance"
-F10 "?" 0 0 50 H I C CNN "Temperature Coefficient"
-F11 "?" 0 0 50 H I C CNN "Type"
-F12 "?" 0 0 50 H I C CNN "Ripple Current Low Frequency"
-F13 "?" 0 0 50 H I C CNN "Ripple Current High Frequency"
-F14 "?" 0 0 50 H I C CNN "Safety Rating"
-F15 "?" 0 0 50 H I C CNN "RoHS"
-$FPLIST
- C_*
-$ENDFPLIST
-DRAW
-P 2 0 1 13 -60 -20 60 -20 N
-P 2 0 1 12 -60 20 60 20 N
 X ~ 1 0 100 80 D 50 50 1 1 P
 X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
@@ -4583,16 +4583,20 @@ F0 "L" -50 0 50 V V C CNN
 F1 "L" 75 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "?" 0 0 50 H I C CNN "Manufacturer 1"
-F5 "?" 0 0 50 H I C CNN "MPN 1"
-F6 "?" 0 0 50 H I C CNN "Saturation Current"
-F7 "?" 0 0 50 H I C CNN "Max Current"
-F8 "?" 0 0 50 H I C CNN "DC Resistance"
-F9 "?" 0 0 50 H I C CNN "Tolerance"
-F10 "?" 0 0 50 H I C CNN "Shielding"
-F11 "?" 0 0 50 H I C CNN "Self Resonant Frequency"
-F12 "?" 0 0 50 H I C CNN "Test Frequency"
-F13 "?" 0 0 50 H I C CNN "Core Material"
+F4 "?" 0 0 50 H I C CNN "Status 1"
+F5 "?" 0 0 50 H I C CNN "Placement"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Type"
+F9 "?" 0 0 50 H I C CNN "Core Material"
+F10 "?" 0 0 50 H I C CNN "Saturation Current"
+F11 "?" 0 0 50 H I C CNN "Max Current"
+F12 "?" 0 0 50 H I C CNN "DC Resistance"
+F13 "?" 0 0 50 H I C CNN "Tolerance"
+F14 "?" 0 0 50 H I C CNN "Shielding"
+F15 "?" 0 0 50 H I C CNN "Self Resonant Frequency"
+F16 "?" 0 0 50 H I C CNN "Test Frequency"
+F17 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  Choke_*
  *Coil*
