@@ -235,6 +235,11 @@ D Power symbol creates a global label with name "+R_24VAC"
 K power-flag
 $ENDCMP
 #
+$CMP +R_24VAC_FUSED
+D Power symbol creates a global label with name "+R_24VAC_FUSED"
+K power-flag
+$ENDCMP
+#
 $CMP +VDC
 D Power symbol creates a global label with name "+VDC"
 K power-flag
