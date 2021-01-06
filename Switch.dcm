@@ -330,6 +330,12 @@ K switch lever
 F ~
 $ENDCMP
 #
+$CMP SW_SPST_1,2-3,4
+D Single Pole Single Throw (SPST) switch
+K switch lever
+F ~
+$ENDCMP
+#
 $CMP SW_SPST_LED
 D Single Pole Single Throw (SPST) switch with LED, generic
 K switch SPST LED OFF-ON

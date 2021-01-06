@@ -1663,12 +1663,76 @@ F0 "SW" 0 125 50 H V C CNN
 F1 "SW_SPST" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Substitutes"
+F6 "?" 0 0 50 H I C CNN "Active 1"
+F7 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F8 "?" 0 0 50 H I C CNN "MPN 1"
+F9 "?" 0 0 50 H I C CNN "Type"
+F10 "?" 0 0 50 H I C CNN "Circuit"
+F11 "?" 0 0 50 H I C CNN "Switch Function"
+F12 "?" 0 0 50 H I C CNN "Contact Rating @ Voltage"
+F13 "?" 0 0 50 H I C CNN "Actuator Type"
+F14 "?" 0 0 50 H I C CNN "Actuator Height off PCB, Vertical"
+F15 "?" 0 0 50 H I C CNN "Actuator Length, Right Angle"
+F16 "?" 0 0 50 H I C CNN "Actuator Orientation"
+F17 "?" 0 0 50 H I C CNN "Termination Style"
+F18 "?" 0 0 50 H I C CNN "Outline"
+F19 "?" 0 0 50 H I C CNN "Operating Force"
+F20 "?" 0 0 50 H I C CNN "Ingress Protection"
+F21 "?" 0 0 50 H I C CNN "Features"
+F22 "?" 0 0 50 H I C CNN "Operating Temperature"
+F23 "?" 0 0 50 H I C CNN "Actuator Material"
+F24 "?" 0 0 50 H I C CNN "Switch Travel"
+F25 "?" 0 0 50 H I C CNN "Mechanical Life"
+F26 "?" 0 0 50 H I C CNN "RoHS"
 DRAW
 C -80 0 20 0 0 0 N
 C 80 0 20 0 0 0 N
 P 2 0 0 0 -60 10 60 70 N
 X A 1 -200 0 100 R 50 50 1 1 P
 X B 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SW_SPST_1,2-3,4
+#
+DEF SW_SPST_1,2-3,4 SW 0 0 Y N 1 F N
+F0 "SW" 0 125 50 H V C CNN
+F1 "SW_SPST_1,2-3,4" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Substitutes"
+F6 "?" 0 0 50 H I C CNN "Active 1"
+F7 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F8 "?" 0 0 50 H I C CNN "MPN 1"
+F9 "?" 0 0 50 H I C CNN "Type"
+F10 "?" 0 0 50 H I C CNN "Circuit"
+F11 "?" 0 0 50 H I C CNN "Switch Function"
+F12 "?" 0 0 50 H I C CNN "Contact Rating @ Voltage"
+F13 "?" 0 0 50 H I C CNN "Actuator Type"
+F14 "?" 0 0 50 H I C CNN "Actuator Height off PCB, Vertical"
+F15 "?" 0 0 50 H I C CNN "Actuator Length, Right Angle"
+F16 "?" 0 0 50 H I C CNN "Actuator Orientation"
+F17 "?" 0 0 50 H I C CNN "Termination Style"
+F18 "?" 0 0 50 H I C CNN "Outline"
+F19 "?" 0 0 50 H I C CNN "Operating Force"
+F20 "?" 0 0 50 H I C CNN "Ingress Protection"
+F21 "?" 0 0 50 H I C CNN "Features"
+F22 "?" 0 0 50 H I C CNN "Operating Temperature"
+F23 "?" 0 0 50 H I C CNN "Actuator Material"
+F24 "?" 0 0 50 H I C CNN "Switch Travel"
+F25 "?" 0 0 50 H I C CNN "Mechanical Life"
+F26 "?" 0 0 50 H I C CNN "RoHS"
+DRAW
+C -80 0 20 0 0 0 N
+C 80 0 20 0 0 0 N
+P 2 0 0 0 -60 10 60 70 N
+X A 1 -200 0 100 R 50 50 1 1 P
+X A 2 -200 0 100 R 50 50 1 1 P N
+X B 3 200 0 100 L 50 50 1 1 P
+X B 4 200 0 100 L 50 50 1 1 P N
 ENDDRAW
 ENDDEF
 #
