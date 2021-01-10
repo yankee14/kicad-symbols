@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 213598-x
+D NEMA 5-15R receptacle, THT
+K american outlet receptacle power
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=213598&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
 $CMP 4P2C
 D RJ connector, 4P2C (4 positions 2 connected)
 K 4P2C RJ female connector
@@ -419,6 +425,7 @@ D 3 pin connector, PD-30S
 K connector 3-pin PD-30S power DIN
 F http://www.cui.com/product/resource/pd-30.pdf
 $ENDCMP
+#
 $CMP CoaxialSwitch_Testpoint
 D Subminiature Coaxial Switch testpoint
 K  Coaxial Switch RF testpoint

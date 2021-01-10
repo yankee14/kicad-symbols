@@ -1,6 +1,43 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 213598-x
+#
+DEF 213598-x J 0 20 Y Y 1 F N
+F0 "J" 100 250 50 H V C CNN
+F1 "213598-x" 0 -250 50 H V C CNN
+F2 "" 0 10 50 H I C CNN
+F3 "" 0 10 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Substitutes"
+F6 "?" 0 0 50 H I C CNN "Status 1"
+F7 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F8 "?" 0 0 50 H I C CNN "MPN 1"
+F9 "?" 0 0 50 H I C CNN "Connector Style"
+F10 "?" 0 0 50 H I C CNN "Type"
+F11 "?" 0 0 50 H I C CNN "Max Current"
+F12 "?" 0 0 50 H I C CNN "Max Voltage"
+F13 "?" 0 0 50 H I C CNN "Positions"
+F14 "?" 0 0 50 H I C CNN "Termination"
+F15 "?" 0 0 50 H I C CNN "RoHS"
+$FPLIST
+ TE_213598*
+$ENDFPLIST
+DRAW
+A 0 -100 40 1 1799 0 1 10 F 40 -100 -40 -100
+S -200 200 200 -200 0 1 10 f
+S -80 160 -120 -10 0 1 10 F
+S -40 -100 40 -130 0 1 10 F
+S 80 130 120 10 0 1 10 F
+P 3 0 1 6 -200 100 -160 60 -120 60 N
+P 4 0 1 6 -200 -100 -150 -150 -60 -150 -40 -130 N
+P 5 0 1 6 -200 0 -160 -40 -40 -40 50 50 80 50 N
+X N 1 -300 100 100 R 50 50 1 1 P
+X H 2 -300 0 100 R 50 50 1 1 P
+X G 3 -300 -100 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 4P2C
 #
 DEF 4P2C J 0 40 Y Y 1 F N
