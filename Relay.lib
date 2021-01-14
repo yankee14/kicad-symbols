@@ -2606,6 +2606,58 @@ X ~ 9 100 300 100 D 50 50 3 1 P
 ENDDRAW
 ENDDEF
 #
+# G6DN-1A-DC4.5
+#
+DEF G6DN-1A-DC4.5 K 0 20 Y Y 1 F N
+F0 "K" 350 150 50 H V L CNN
+F1 "G6DN-1A-DC4.5" 350 50 50 H V L CNN
+F2 "Relay_THT:Relay_SPST_Omron_G6DN-1A" 350 -50 50 H I L CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Coil Voltage"
+F9 "?" 0 0 50 H I C CNN "Coil Resistance"
+F10 "?" 0 0 50 H I C CNN "Contact Form"
+F11 "?" 0 0 50 H I C CNN "Max Contact Voltage"
+F12 "?" 0 0 50 H I C CNN "Max Contact Current"
+F13 "?" 0 0 50 H I C CNN "Max Coil Current"
+F14 "?" 0 0 50 H I C CNN "Type"
+F15 "?" 0 0 50 H I C CNN "Must Operate Voltage"
+F16 "?" 0 0 50 H I C CNN "Must Release Voltage"
+F17 "?" 0 0 50 H I C CNN "Operate Time"
+F18 "?" 0 0 50 H I C CNN "Release Time"
+F19 "?" 0 0 50 H I C CNN "Seal Rating"
+F20 "?" 0 0 50 H I C CNN "Coil Insulation"
+F21 "?" 0 0 50 H I C CNN "Termination Style"
+F22 "?" 0 0 50 H I C CNN "Substitutes"
+F23 "?" 0 0 50 H I C CNN "RoHS"
+ALIAS G6DN-1A-DC5 G6DN-1A-DC12 G6DN-1A-DC24
+$FPLIST
+ Relay*SPST*Omron*G6DN*
+$ENDFPLIST
+DRAW
+S -400 200 300 -200 0 1 10 f
+S -325 75 -75 -75 0 1 10 N
+P 4 0 0 0 200 200 200 100 175 125 200 150 N
+P 2 0 1 10 -300 -75 -100 75 N
+P 2 0 1 0 -200 -200 -200 -75 N
+P 2 0 1 0 -200 200 -200 75 N
+P 2 0 1 10 -75 0 -50 0 N
+P 2 0 1 10 -25 0 0 0 N
+P 2 0 1 10 25 0 50 0 N
+P 2 0 1 10 75 0 100 0 N
+P 2 0 1 10 125 0 150 0 N
+P 2 0 1 20 200 -100 125 150 N
+P 2 0 1 0 200 -100 200 -200 N
+X ~ 1 -200 300 100 D 50 50 1 1 P
+X ~ 2 -200 -300 100 U 50 50 1 1 P
+X ~ 5 200 300 100 D 50 50 1 1 P
+X ~ 8 200 -300 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # G6E
 #
 DEF G6E K 0 20 Y Y 1 F N
