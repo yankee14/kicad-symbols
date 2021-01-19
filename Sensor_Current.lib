@@ -60,6 +60,54 @@ X VOUT 3 400 0 100 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
+# ACS37800KMAC-015B-SPI
+#
+DEF ACS37800KMAC-015B-SPI U 0 20 Y Y 1 F N
+F0 "U" -250 350 50 H V C CNN
+F1 "ACS37800KMAC-015B-SPI" 550 350 50 H V C CNN
+F2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Substitutes"
+F6 "?" 0 0 50 H I C CNN "Status 1"
+F7 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F8 "?" 0 0 50 H I C CNN "MPN 1"
+F9 "?" 0 0 50 H I C CNN "For Measuring"
+F10 "?" 0 0 50 H I C CNN "Type"
+F11 "?" 0 0 50 H I C CNN "Voltage - Sensing"
+F12 "?" 0 0 50 H I C CNN "Current - Sensing"
+F13 "?" 0 0 50 H I C CNN "Output"
+F14 "?" 0 0 50 H I C CNN "Sensitivity"
+F15 "?" 0 0 50 H I C CNN "Frequency"
+F16 "?" 0 0 50 H I C CNN "Linearity"
+F17 "?" 0 0 50 H I C CNN "Accuracy"
+F18 "?" 0 0 50 H I C CNN "Voltage - Supply"
+F19 "?" 0 0 50 H I C CNN "Response Time"
+F20 "?" 0 0 50 H I C CNN "Max Current - Supply"
+F21 "?" 0 0 50 H I C CNN "Operating Temperature"
+F22 "?" 0 0 50 H I C CNN "Polarization"
+F23 "?" 0 0 50 H I C CNN "RoHS"
+DRAW
+S -300 300 300 -300 0 1 10 f
+X IP+ 1 -400 100 100 R 50 50 1 1 P
+X COPI 10 400 100 100 L 50 50 1 1 O
+X CIPO 12 400 0 100 L 50 50 1 1 I
+X SCLK 12 400 -100 100 L 50 50 1 1 I
+X VCC 13 0 400 100 D 50 50 1 1 W
+X GND 14 0 -400 100 U 50 50 1 1 W
+X VIN- 15 -400 -200 100 R 50 50 1 1 I
+X VIN+ 16 -400 200 100 R 50 50 1 1 I
+X IP+ 2 -400 100 100 R 50 50 1 1 P N
+X IP+ 3 -400 100 100 R 50 50 1 1 P N
+X IP+ 4 -400 100 100 R 50 50 1 1 P N
+X IP- 5 -400 -100 100 R 50 50 1 1 P
+X IP- 6 -400 -100 100 R 50 50 1 1 P N
+X IP- 7 -400 -100 100 R 50 50 1 1 P N
+X IP- 8 -400 -100 100 R 50 50 1 1 P N
+X CS 9 400 -200 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # ACS706xLC-05C
 #
 DEF ACS706xLC-05C U 0 20 Y Y 1 F N
