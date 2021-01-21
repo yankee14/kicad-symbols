@@ -1158,6 +1158,12 @@ K TE DPST NO monostable
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3
 $ENDCMP
 #
+$CMP RZ03-1C4-005
+D TE RZ03-1C4-005, SPDT relay, 16A, 5VDC coil
+K spdt relay
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRZ%7F0920%7Fpdf%7FEnglish%7FENG_DS_RZ_0920.pdf%7F1-1415899-9
+$ENDCMP
+#
 $CMP SANYOU_SRD_Form_A
 D Sanyo SRD relay, Single Pole Miniature Power Relay, Closing Contact
 K Single Pole Relay SPST

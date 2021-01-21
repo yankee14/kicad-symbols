@@ -1712,8 +1712,10 @@ F16 "?" 0 0 50 H I C CNN "Operate Time"
 F17 "?" 0 0 50 H I C CNN "Release Time"
 F18 "?" 0 0 50 H I C CNN "Termination Style"
 F19 "?" 0 0 50 H I C CNN "RoHS"
+ALIAS RZ03-1C4-005
 $FPLIST
  Relay*SPDT*Finder*36.11*
+ Relay*SPDT*TE*RZ03*
 $ENDFPLIST
 DRAW
 S -400 200 400 -200 0 1 10 f
