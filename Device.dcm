@@ -3210,6 +3210,12 @@ K speaker sound
 F ~
 $ENDCMP
 #
+$CMP Speaker_+-
+D Speaker
+K speaker sound
+F ~
+$ENDCMP
+#
 $CMP Speaker_Crystal
 D Crystal speaker/transducer
 K crystal speaker ultrasonic transducer
