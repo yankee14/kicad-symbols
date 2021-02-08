@@ -5161,24 +5161,12 @@ F http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf
 $ENDCMP
 #
 $CMP MCP1754S-1802xCB
-D Fixed 150mA Low Dropout Voltage Regulator, Positive, 1.8V output, SOT-23
-K Regulator LDO
-F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
-$ENDCMP
-#
-$CMP MCP1754S-1802xMB
 D Fixed 150mA Low Dropout Voltage Regulator, Positive, 1.8V output, SOT-89
 K Regulator LDO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
 $ENDCMP
 #
 $CMP MCP1754S-3302xCB
-D Fixed 150mA Low Dropout Voltage Regulator, Positive, 3.3V output, SOT-23
-K Regulator LDO
-F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
-$ENDCMP
-#
-$CMP MCP1754S-3302xMB
 D Fixed 150mA Low Dropout Voltage Regulator, Positive, 3.3V output, SOT-89
 K Regulator LDO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
@@ -7975,12 +7963,6 @@ F http://www.ti.com/lit/ds/symlink/tps7a91.pdf
 $ENDCMP
 #
 $CMP XC6206PxxxMR
-D Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23
-K Torex LDO Voltage Regulator Fixed Positive
-F https://www.torexsemi.com/file/xc6206/XC6206.pdf
-$ENDCMP
-#
-$CMP XC6210B332MR
 D 700mA, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5
 K LDO Voltage Regulator 700mA
 F https://www.torexsemi.com/file/xc6210/XC6210.pdf
