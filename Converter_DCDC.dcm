@@ -2736,6 +2736,12 @@ K Murata isolated isolation dc-dc converter step-down
 F https://power.murata.com/data/power/ncl/kdc_ncs1.pdf
 $ENDCMP
 #
+$CMP NCS3S1205SC
+D Isolated 3W 4:1 input DC/DC converter module, 9-36V input voltage, 5V output voltage, SIP
+K Murata isolated isolation dc-dc converter step-down
+F https://power.murata.com/data/power/ncl/kdc_ncs3.pdf
+$ENDCMP
+#
 $CMP OKI-78SR-12_1.0-W36-C
 D 1.0A Step-Down DC/DC-Regulator, 15-36V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, OKI-78SR_Vertical
 K dc-dc murata Step-Down DC/DC-Regulator
