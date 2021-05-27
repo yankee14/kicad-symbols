@@ -3412,6 +3412,18 @@ F0 "D" 0 100 50 H V C CNN
 F1 "D_TVS" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Status 1"
+F6 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F7 "?" 0 0 50 H I C CNN "MPN 1"
+F8 "?" 0 0 50 H I C CNN "Type"
+F9 "?" 0 0 50 H I C CNN "Reverse Standoff Voltage"
+F10 "?" 0 0 50 H I C CNN "Breakdown Voltage"
+F11 "?" 0 0 50 H I C CNN "Clamping Voltage"
+F12 "?" 0 0 50 H I C CNN "Peak Pulse Current"
+F13 "?" 0 0 50 H I C CNN "Peak Pulse Power"
+F14 "?" 0 0 50 H I C CNN "Power Line Protection"
+F15 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  TO-???*
  *_Diode_*
@@ -9362,6 +9374,22 @@ F0 "F" -100 0 50 V V C CNN
 F1 "Polyfuse" 100 0 50 V V C CNN
 F2 "" 50 -200 50 H I L CNN
 F3 "" 0 0 50 H I C CNN
+F4 "?" 0 0 50 H I C CNN "Placement"
+F5 "?" 0 0 50 H I C CNN "Substitutes"
+F6 "?" 0 0 50 H I C CNN "Active 1"
+F7 "?" 0 0 50 H I C CNN "Manufacturer 1"
+F8 "?" 0 0 50 H I C CNN "MPN 1"
+F9 "?" 0 0 50 H I C CNN "Type"
+F10 "?" 0 0 50 H I C CNN "Ratings"
+F11 "?" 0 0 50 H I C CNN "Approval Agency"
+F12 "?" 0 0 50 H I C CNN "Max Voltage"
+F13 "?" 0 0 50 H I C CNN "Max Current"
+F14 "?" 0 0 50 H I C CNN "Hold Current"
+F15 "?" 0 0 50 H I C CNN "Trip Current"
+F16 "?" 0 0 50 H I C CNN "Time to Trip"
+F17 "?" 0 0 50 H I C CNN "Initial Resistance"
+F18 "?" 0 0 50 H I C CNN "Trip Resistance"
+F19 "?" 0 0 50 H I C CNN "RoHS"
 $FPLIST
  *polyfuse*
  *PTC*
