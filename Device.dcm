@@ -912,6 +912,12 @@ K diode TVS thyrector
 F ~
 $ENDCMP
 #
+$CMP D_TVS_Uni
+D Unidirectional transient-voltage-suppression diode
+K diode
+F ~
+$ENDCMP
+#
 $CMP D_TemperatureDependent
 D Temperature dependent diode
 K temperature sensor diode
